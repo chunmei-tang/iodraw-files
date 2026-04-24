@@ -71,7 +71,10 @@
           <mxGeometry x="550" y="320" width="30" height="120" as="geometry" />
         </mxCell>
         <mxCell id="wPhRyMuCBvTmxF4cFt2s-25" value="用户管理" style="rounded=0;whiteSpace=wrap;html=1;direction=south;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="600" y="320" width="30" height="120" as="geometry" />
+          <mxGeometry x="590" y="320" width="20" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="wPhRyMuCBvTmxF4cFt2s-26" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="630" y="360" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
