@@ -95,6 +95,8 @@
             <Array as="points">
               <mxPoint x="202" y="105" />
               <mxPoint x="246" y="153" />
+              <mxPoint x="400" y="115" />
+              <mxPoint x="744" y="188" />
               <mxPoint x="239" y="147" />
               <mxPoint x="349" y="129" />
               <mxPoint x="390" y="100" />
