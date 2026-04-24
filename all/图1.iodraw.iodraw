@@ -88,10 +88,13 @@
         <mxCell id="wPhRyMuCBvTmxF4cFt2s-30" value="用户统计" style="rounded=1;whiteSpace=wrap;html=1;direction=south;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="760" y="320" width="20" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="wPhRyMuCBvTmxF4cFt2s-46" value="" style="edgeStyle=isometricEdgeStyle;endArrow=none;html=1;rounded=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="wPhRyMuCBvTmxF4cFt2s-46" value="" style="edgeStyle=isometricEdgeStyle;endArrow=none;html=1;rounded=1;entryX=0;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" target="wPhRyMuCBvTmxF4cFt2s-0">
           <mxGeometry width="50" height="100" relative="1" as="geometry">
             <mxPoint x="53" y="168" as="sourcePoint" />
             <mxPoint x="103" y="68" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="340" y="79" />
+            </Array>
           </mxGeometry>
         </mxCell>
       </root>
