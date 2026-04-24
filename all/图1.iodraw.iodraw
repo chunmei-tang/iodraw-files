@@ -73,13 +73,8 @@
         <mxCell id="wPhRyMuCBvTmxF4cFt2s-25" value="用户管理" style="rounded=1;whiteSpace=wrap;html=1;direction=south;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="584" y="320" width="20" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="wPhRyMuCBvTmxF4cFt2s-104" style="edgeStyle=elbowEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="wPhRyMuCBvTmxF4cFt2s-26">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="622.6666666666667" y="348.11112467447913" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="wPhRyMuCBvTmxF4cFt2s-26" value="图书资源管理" style="rounded=1;whiteSpace=wrap;html=1;direction=south;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="610" y="373" width="20" height="120" as="geometry" />
+          <mxGeometry x="610" y="322" width="20" height="120" as="geometry" />
         </mxCell>
         <mxCell id="wPhRyMuCBvTmxF4cFt2s-27" value="公告管理" style="rounded=1;whiteSpace=wrap;html=1;direction=south;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="640" y="371" width="20" height="120" as="geometry" />
