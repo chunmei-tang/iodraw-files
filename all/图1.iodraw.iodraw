@@ -223,9 +223,6 @@
             <mxPoint x="261" y="301" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="wPhRyMuCBvTmxF4cFt2s-75" style="edgeStyle=elbowEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="wPhRyMuCBvTmxF4cFt2s-14" target="wPhRyMuCBvTmxF4cFt2s-14">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="wPhRyMuCBvTmxF4cFt2s-76" value="" style="endArrow=none;html=1;rounded=1;exitX=0;exitY=0.25;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="wPhRyMuCBvTmxF4cFt2s-17">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="275" y="351" as="sourcePoint" />
