@@ -166,9 +166,6 @@
             <mxPoint x="50" y="289" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="wPhRyMuCBvTmxF4cFt2s-60" style="edgeStyle=elbowEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="wPhRyMuCBvTmxF4cFt2s-9" target="wPhRyMuCBvTmxF4cFt2s-9">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="wPhRyMuCBvTmxF4cFt2s-61" style="edgeStyle=elbowEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="wPhRyMuCBvTmxF4cFt2s-10" target="wPhRyMuCBvTmxF4cFt2s-10">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
