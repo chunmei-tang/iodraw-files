@@ -79,13 +79,14 @@
             <mxPoint x="140" y="630" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="tmQg6RA1G0PTFsVvQ5YJ-26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="tmQg6RA1G0PTFsVvQ5YJ-22">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="735" y="780" as="targetPoint" />
-          </mxGeometry>
+        <mxCell id="tmQg6RA1G0PTFsVvQ5YJ-28" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="tmQg6RA1G0PTFsVvQ5YJ-22" target="tmQg6RA1G0PTFsVvQ5YJ-27">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="tmQg6RA1G0PTFsVvQ5YJ-22" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="720" y="640" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="tmQg6RA1G0PTFsVvQ5YJ-27" value="" style="whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="675" y="780" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
