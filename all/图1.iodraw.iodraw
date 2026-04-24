@@ -35,7 +35,7 @@
           <mxGeometry x="40" y="320" width="20" height="120" as="geometry" />
         </mxCell>
         <mxCell id="wPhRyMuCBvTmxF4cFt2s-11" value="个人信息管理" style="rounded=1;whiteSpace=wrap;html=1;direction=south;textDirection=vertical-lr;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="70" y="320" width="20" height="120" as="geometry" />
+          <mxGeometry x="70" y="327" width="20" height="120" as="geometry" />
         </mxCell>
         <mxCell id="wPhRyMuCBvTmxF4cFt2s-12" value="图书资源上传" style="rounded=1;whiteSpace=wrap;html=1;direction=south;textDirection=vertical-lr;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="130" y="320" width="20" height="120" as="geometry" />
@@ -163,8 +163,14 @@
         <mxCell id="wPhRyMuCBvTmxF4cFt2s-59" value="" style="endArrow=none;html=1;rounded=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="52" y="318" as="sourcePoint" />
-            <mxPoint x="34" y="307" as="targetPoint" />
+            <mxPoint x="52" y="296" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="wPhRyMuCBvTmxF4cFt2s-60" style="edgeStyle=elbowEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="wPhRyMuCBvTmxF4cFt2s-9" target="wPhRyMuCBvTmxF4cFt2s-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wPhRyMuCBvTmxF4cFt2s-61" style="edgeStyle=elbowEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="wPhRyMuCBvTmxF4cFt2s-10" target="wPhRyMuCBvTmxF4cFt2s-10">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
