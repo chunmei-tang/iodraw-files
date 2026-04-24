@@ -189,11 +189,11 @@
         </mxCell>
         <mxCell id="wPhRyMuCBvTmxF4cFt2s-66" value="" style="endArrow=none;html=1;rounded=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="135" y="303" as="sourcePoint" />
+            <mxPoint x="135" y="299" as="sourcePoint" />
             <mxPoint x="212" y="299" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="wPhRyMuCBvTmxF4cFt2s-68" value="" style="endArrow=none;html=1;rounded=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="wPhRyMuCBvTmxF4cFt2s-68" value="" style="endArrow=none;html=1;rounded=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="wPhRyMuCBvTmxF4cFt2s-12">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="88" y="350" as="sourcePoint" />
             <mxPoint x="138" y="300" as="targetPoint" />
