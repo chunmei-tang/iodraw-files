@@ -79,11 +79,6 @@
             <mxPoint x="140" y="630" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="tmQg6RA1G0PTFsVvQ5YJ-50" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="tmQg6RA1G0PTFsVvQ5YJ-35">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="715" y="780" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="tmQg6RA1G0PTFsVvQ5YJ-35" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;strokeColor=default;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="700" y="640" width="30" height="60" as="geometry" />
         </mxCell>
@@ -122,6 +117,9 @@
             <mxPoint x="700" y="660" as="sourcePoint" />
             <mxPoint x="720" y="940" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="tmQg6RA1G0PTFsVvQ5YJ-52" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="31" y="900" width="30" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
