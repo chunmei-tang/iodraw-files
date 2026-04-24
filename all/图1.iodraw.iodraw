@@ -64,8 +64,8 @@
         <mxCell id="wPhRyMuCBvTmxF4cFt2s-22" value="留言回复查看" style="rounded=0;whiteSpace=wrap;html=1;direction=south;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="470" y="320" width="30" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="wPhRyMuCBvTmxF4cFt2s-23" value="" style="rounded=0;whiteSpace=wrap;html=1;direction=south;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="510" y="320" width="60" height="120" as="geometry" />
+        <mxCell id="wPhRyMuCBvTmxF4cFt2s-23" value="公告列表" style="rounded=0;whiteSpace=wrap;html=1;direction=south;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="510" y="320" width="30" height="120" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
