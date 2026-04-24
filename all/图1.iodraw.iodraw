@@ -217,7 +217,12 @@
         <mxCell id="wPhRyMuCBvTmxF4cFt2s-71" value="" style="endArrow=none;html=1;rounded=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="261" y="300" as="sourcePoint" />
-            <mxPoint x="320" y="297" as="targetPoint" />
+            <mxPoint x="326" y="300" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wPhRyMuCBvTmxF4cFt2s-73" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];rounded=1;" vertex="1" connectable="0" parent="wPhRyMuCBvTmxF4cFt2s-71">
+          <mxGeometry x="-0.0735" y="5" relative="1" as="geometry">
+            <mxPoint x="-1" as="offset" />
           </mxGeometry>
         </mxCell>
       </root>
