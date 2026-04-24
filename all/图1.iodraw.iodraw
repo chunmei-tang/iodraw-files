@@ -22,7 +22,7 @@
         <mxCell id="wPhRyMuCBvTmxF4cFt2s-5" value="公告信息模块" style="rounded=1;whiteSpace=wrap;html=1;direction=south;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="510" y="170" width="60" height="113" as="geometry" />
         </mxCell>
-        <mxCell id="wPhRyMuCBvTmxF4cFt2s-94" style="edgeStyle=elbowEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="wPhRyMuCBvTmxF4cFt2s-6">
+        <mxCell id="wPhRyMuCBvTmxF4cFt2s-94" style="edgeStyle=elbowEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="wPhRyMuCBvTmxF4cFt2s-6">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="596.888916015625" y="370.3333740234375" as="targetPoint" />
           </mxGeometry>
@@ -275,6 +275,9 @@
             <mxPoint x="521" y="301" as="sourcePoint" />
             <mxPoint x="553" y="298" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="wPhRyMuCBvTmxF4cFt2s-95" style="edgeStyle=elbowEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.144;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="wPhRyMuCBvTmxF4cFt2s-6" target="wPhRyMuCBvTmxF4cFt2s-26">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
