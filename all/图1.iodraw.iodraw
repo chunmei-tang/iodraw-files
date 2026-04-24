@@ -20,7 +20,7 @@
           <mxGeometry x="390" y="167" width="60" height="120" as="geometry" />
         </mxCell>
         <mxCell id="wPhRyMuCBvTmxF4cFt2s-5" value="公告信息模块" style="rounded=1;whiteSpace=wrap;html=1;direction=south;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="510" y="170" width="60" height="118" as="geometry" />
+          <mxGeometry x="510" y="170" width="60" height="113" as="geometry" />
         </mxCell>
         <mxCell id="wPhRyMuCBvTmxF4cFt2s-6" value="后台管理员模块" style="rounded=1;whiteSpace=wrap;html=1;direction=south;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="600" y="170" width="60" height="120" as="geometry" />
