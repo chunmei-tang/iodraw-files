@@ -7,6 +7,11 @@
         <mxCell id="wPhRyMuCBvTmxF4cFt2s-0" value="在线学习资源分享平台" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="340" y="20" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="wPhRyMuCBvTmxF4cFt2s-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="wPhRyMuCBvTmxF4cFt2s-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="393.33333333333326" y="84.11112467447913" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="wPhRyMuCBvTmxF4cFt2s-1" value="用户管理模块" style="rounded=0;whiteSpace=wrap;html=1;direction=south;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="30" y="170" width="60" height="120" as="geometry" />
         </mxCell>
