@@ -83,7 +83,7 @@
           <mxGeometry x="670" y="321" width="20" height="120" as="geometry" />
         </mxCell>
         <mxCell id="wPhRyMuCBvTmxF4cFt2s-29" value="资源统计" style="rounded=1;whiteSpace=wrap;html=1;direction=south;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="720" y="320" width="20" height="120" as="geometry" />
+          <mxGeometry x="708" y="322" width="20" height="120" as="geometry" />
         </mxCell>
         <mxCell id="wPhRyMuCBvTmxF4cFt2s-30" value="用户统计" style="rounded=1;whiteSpace=wrap;html=1;direction=south;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="760" y="320" width="20" height="120" as="geometry" />
