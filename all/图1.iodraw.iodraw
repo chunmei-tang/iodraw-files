@@ -41,7 +41,7 @@
           <mxGeometry x="130" y="320" width="20" height="120" as="geometry" />
         </mxCell>
         <mxCell id="wPhRyMuCBvTmxF4cFt2s-13" value="图示资源检索" style="rounded=0;whiteSpace=wrap;html=1;direction=south;textDirection=vertical-lr;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="157.5" y="320" width="25" height="120" as="geometry" />
+          <mxGeometry x="157.5" y="320" width="22.5" height="120" as="geometry" />
         </mxCell>
         <mxCell id="wPhRyMuCBvTmxF4cFt2s-14" value="图书资源收藏" style="rounded=0;whiteSpace=wrap;html=1;direction=south;textDirection=vertical-lr;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="190" y="320" width="20" height="120" as="geometry" />
@@ -56,7 +56,7 @@
           <mxGeometry x="310" y="320" width="20" height="120" as="geometry" />
         </mxCell>
         <mxCell id="wPhRyMuCBvTmxF4cFt2s-20" value="留言发布" style="rounded=0;whiteSpace=wrap;html=1;direction=south;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="390" y="320" width="30" height="120" as="geometry" />
+          <mxGeometry x="390" y="320" width="20" height="120" as="geometry" />
         </mxCell>
         <mxCell id="wPhRyMuCBvTmxF4cFt2s-21" value="查看留言" style="rounded=0;whiteSpace=wrap;html=1;direction=south;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="430" y="320" width="30" height="120" as="geometry" />
