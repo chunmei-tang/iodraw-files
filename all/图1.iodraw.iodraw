@@ -58,8 +58,8 @@
         <mxCell id="wPhRyMuCBvTmxF4cFt2s-20" value="留言发布" style="rounded=1;whiteSpace=wrap;html=1;direction=south;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="390" y="320" width="20" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="wPhRyMuCBvTmxF4cFt2s-21" value="查看留言" style="rounded=1;whiteSpace=wrap;html=1;direction=south;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="420" y="318" width="20" height="122" as="geometry" />
+        <mxCell id="wPhRyMuCBvTmxF4cFt2s-21" value="查看留言" style="rounded=1;whiteSpace=wrap;html=1;direction=west;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="369" y="371" width="122" height="20" as="geometry" />
         </mxCell>
         <mxCell id="wPhRyMuCBvTmxF4cFt2s-22" value="留言回复查看" style="rounded=1;whiteSpace=wrap;html=1;direction=south;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="450" y="320" width="20" height="120" as="geometry" />
