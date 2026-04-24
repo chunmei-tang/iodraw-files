@@ -160,10 +160,10 @@
             <mxPoint x="20" y="300" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="wPhRyMuCBvTmxF4cFt2s-59" value="" style="endArrow=none;html=1;rounded=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="wPhRyMuCBvTmxF4cFt2s-59" value="" style="endArrow=none;html=1;rounded=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="wPhRyMuCBvTmxF4cFt2s-10">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="52" y="318" as="sourcePoint" />
-            <mxPoint x="52" y="296" as="targetPoint" />
+            <mxPoint x="52" y="307" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="wPhRyMuCBvTmxF4cFt2s-60" style="edgeStyle=elbowEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="wPhRyMuCBvTmxF4cFt2s-9" target="wPhRyMuCBvTmxF4cFt2s-9">
