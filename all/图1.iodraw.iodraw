@@ -4,6 +4,11 @@
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
+        <mxCell id="wPhRyMuCBvTmxF4cFt2s-54" style="edgeStyle=elbowEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="wPhRyMuCBvTmxF4cFt2s-0">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="408.44441731770826" y="108.11112467447913" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="wPhRyMuCBvTmxF4cFt2s-0" value="在线学习资源分享平台" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="354" y="20" width="120" height="60" as="geometry" />
         </mxCell>
@@ -17,7 +22,7 @@
           <mxGeometry x="260" y="170" width="60" height="120" as="geometry" />
         </mxCell>
         <mxCell id="wPhRyMuCBvTmxF4cFt2s-4" value="留言反馈模块" style="rounded=1;whiteSpace=wrap;html=1;direction=south;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="400" y="170" width="60" height="120" as="geometry" />
+          <mxGeometry x="390" y="167" width="60" height="120" as="geometry" />
         </mxCell>
         <mxCell id="wPhRyMuCBvTmxF4cFt2s-5" value="公告信息模块" style="rounded=1;whiteSpace=wrap;html=1;direction=south;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="510" y="170" width="60" height="120" as="geometry" />
