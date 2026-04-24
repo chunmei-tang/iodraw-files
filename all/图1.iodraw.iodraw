@@ -24,7 +24,10 @@
         </mxCell>
         <mxCell id="wPhRyMuCBvTmxF4cFt2s-94" style="edgeStyle=elbowEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="wPhRyMuCBvTmxF4cFt2s-6">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="596.888916015625" y="370.3333740234375" as="targetPoint" />
+            <mxPoint x="592" y="336" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="586" y="333" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="wPhRyMuCBvTmxF4cFt2s-6" value="后台管理员模块" style="rounded=1;whiteSpace=wrap;html=1;direction=south;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
