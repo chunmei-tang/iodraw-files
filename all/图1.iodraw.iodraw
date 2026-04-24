@@ -67,9 +67,6 @@
         <mxCell id="wPhRyMuCBvTmxF4cFt2s-23" value="公告列表" style="rounded=1;whiteSpace=wrap;html=1;direction=south;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="510" y="320" width="20" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="wPhRyMuCBvTmxF4cFt2s-88" value="" style="edgeStyle=elbowEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="wPhRyMuCBvTmxF4cFt2s-24" target="wPhRyMuCBvTmxF4cFt2s-5">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="wPhRyMuCBvTmxF4cFt2s-24" value="公告详情" style="rounded=1;whiteSpace=wrap;html=1;direction=south;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="540" y="320" width="20" height="120" as="geometry" />
         </mxCell>
@@ -260,6 +257,12 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="522" y="318" as="sourcePoint" />
             <mxPoint x="522" y="300" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wPhRyMuCBvTmxF4cFt2s-89" value="" style="endArrow=none;html=1;rounded=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="550" y="320" as="sourcePoint" />
+            <mxPoint x="600" y="270" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
