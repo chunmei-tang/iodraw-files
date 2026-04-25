@@ -19,6 +19,9 @@
         <mxCell id="FT8CpLI4xxnJU9l5H19k-5" value="添加" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="400" y="470" width="80" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="FT8CpLI4xxnJU9l5H19k-6" value="查询" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="600" width="80" height="80" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
