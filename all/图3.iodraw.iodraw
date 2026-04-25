@@ -31,6 +31,9 @@
         <mxCell id="8waK5G65BCupeltOIRmE-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="8waK5G65BCupeltOIRmE-5">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="120" y="750" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="120" y="560" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="8waK5G65BCupeltOIRmE-5" value="评论互动" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
