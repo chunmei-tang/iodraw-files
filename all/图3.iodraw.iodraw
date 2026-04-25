@@ -29,6 +29,9 @@
         <mxCell id="FT8CpLI4xxnJU9l5H19k-6" value="查询" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="270" y="580" width="80" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="FT8CpLI4xxnJU9l5H19k-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;endSize=1;" edge="1" parent="1" source="FT8CpLI4xxnJU9l5H19k-7" target="FT8CpLI4xxnJU9l5H19k-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="FT8CpLI4xxnJU9l5H19k-7" value="公告" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="440" y="100" width="120" height="60" as="geometry" />
         </mxCell>
