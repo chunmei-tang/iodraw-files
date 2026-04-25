@@ -5,10 +5,10 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="ZpolmtKQ6iPGpkpgaTiy-1" value="接入层" style="rounded=1;whiteSpace=wrap;html=1;labelPosition=center;verticalLabelPosition=middle;align=left;verticalAlign=middle;dashed=1;labelBackgroundColor=none;horizontal=1;fillStyle=solid;" vertex="1" parent="1">
-          <mxGeometry x="170" y="170" width="330" height="70" as="geometry" />
+          <mxGeometry x="190" y="170" width="330" height="70" as="geometry" />
         </mxCell>
         <mxCell id="ZpolmtKQ6iPGpkpgaTiy-2" value="浏览器" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillStyle=solid;" vertex="1" parent="1">
-          <mxGeometry x="225" y="190" width="60" height="30" as="geometry" />
+          <mxGeometry x="250" y="190" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ZpolmtKQ6iPGpkpgaTiy-3" value="移动终端" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillStyle=solid;" vertex="1" parent="1">
           <mxGeometry x="366" y="190" width="60" height="30" as="geometry" />
