@@ -34,7 +34,7 @@
         <mxCell id="FT8CpLI4xxnJU9l5H19k-10" value="收藏" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="600" y="490" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="FT8CpLI4xxnJU9l5H19k-11" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="FT8CpLI4xxnJU9l5H19k-11" value="书籍搜索" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="600" y="600" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
