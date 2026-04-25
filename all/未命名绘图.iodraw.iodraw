@@ -35,7 +35,7 @@
           <mxGeometry x="260" y="430" width="205" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ZpolmtKQ6iPGpkpgaTiy-15" value="服务层" style="rounded=1;whiteSpace=wrap;html=1;fillStyle=solid;dashed=1;align=left;labelBackgroundColor=none;" vertex="1" parent="1">
-          <mxGeometry x="190" y="585" width="340" height="255" as="geometry" />
+          <mxGeometry x="190" y="585" width="360" height="285" as="geometry" />
         </mxCell>
         <mxCell id="ZpolmtKQ6iPGpkpgaTiy-16" value="用户服务" style="rounded=1;whiteSpace=wrap;html=1;fillStyle=solid;labelBackgroundColor=none;" vertex="1" parent="1">
           <mxGeometry x="260" y="600" width="60" height="30" as="geometry" />
