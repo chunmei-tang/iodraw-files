@@ -61,8 +61,8 @@
         <mxCell id="ZpolmtKQ6iPGpkpgaTiy-29" value="公告服务" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="366" y="727.5" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="ZpolmtKQ6iPGpkpgaTiy-31" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="265" y="770" width="120" height="60" as="geometry" />
+        <mxCell id="ZpolmtKQ6iPGpkpgaTiy-31" value="倒排索引&lt;div&gt;搜索引擎&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="265" y="770" width="120" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
