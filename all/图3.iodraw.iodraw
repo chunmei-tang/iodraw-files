@@ -9,7 +9,7 @@
             <mxPoint x="121.66667175292969" y="558" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="8waK5G65BCupeltOIRmE-1" value="学习资源分享平台" style="rounded=0;whiteSpace=wrap;html=1;rotation=0;direction=south;" vertex="1" parent="1">
+        <mxCell id="8waK5G65BCupeltOIRmE-1" value="&lt;span style=&quot;background-color: initial;&quot;&gt;学习资源分享平台&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;rotation=0;direction=south;align=center;" vertex="1" parent="1">
           <mxGeometry x="42" y="148" width="50" height="820" as="geometry" />
         </mxCell>
         <mxCell id="8waK5G65BCupeltOIRmE-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startSize=6;endSize=0;" edge="1" parent="1" source="8waK5G65BCupeltOIRmE-2">
