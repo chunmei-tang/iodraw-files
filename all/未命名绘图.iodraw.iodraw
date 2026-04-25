@@ -46,11 +46,6 @@
         <mxCell id="ZpolmtKQ6iPGpkpgaTiy-18" value="文件服务" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;" vertex="1" parent="1">
           <mxGeometry x="260" y="640" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="ZpolmtKQ6iPGpkpgaTiy-70" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ZpolmtKQ6iPGpkpgaTiy-19">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="360.0666666666666" y="700" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="ZpolmtKQ6iPGpkpgaTiy-19" value="评论服务" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;" vertex="1" parent="1">
           <mxGeometry x="410" y="650" width="60" height="30" as="geometry" />
         </mxCell>
@@ -58,13 +53,13 @@
           <mxGeometry x="260" y="680" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ZpolmtKQ6iPGpkpgaTiy-25" value="操作日志" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;" vertex="1" parent="1">
-          <mxGeometry x="390" y="690" width="60" height="30" as="geometry" />
+          <mxGeometry x="405" y="690" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ZpolmtKQ6iPGpkpgaTiy-26" value="索引构建" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;" vertex="1" parent="1">
           <mxGeometry x="260" y="720" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ZpolmtKQ6iPGpkpgaTiy-29" value="公告服务" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="400" y="730" width="60" height="30" as="geometry" />
+          <mxGeometry x="410" y="730" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ZpolmtKQ6iPGpkpgaTiy-31" value="倒排索引&lt;div&gt;搜索引擎&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="222.5" y="790" width="280" height="30" as="geometry" />
@@ -107,6 +102,9 @@
         </mxCell>
         <mxCell id="ZpolmtKQ6iPGpkpgaTiy-61" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.6;dx=40;direction=south;notch=0;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="315" y="490" width="70" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="ZpolmtKQ6iPGpkpgaTiy-62" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.6;dx=40;direction=north;notch=0;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="327.5" y="700" width="65" height="90" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
