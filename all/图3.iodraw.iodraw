@@ -63,7 +63,7 @@
           <mxGeometry x="590" y="590" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="FT8CpLI4xxnJU9l5H19k-18" value="管理员" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="710" y="370" width="120" height="60" as="geometry" />
+          <mxGeometry x="710" y="368" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="FT8CpLI4xxnJU9l5H19k-20" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="FT8CpLI4xxnJU9l5H19k-2">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -188,7 +188,13 @@
         <mxCell id="FT8CpLI4xxnJU9l5H19k-54" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="670" y="400" as="sourcePoint" />
-            <mxPoint x="720" y="350" as="targetPoint" />
+            <mxPoint x="710" y="400" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FT8CpLI4xxnJU9l5H19k-55" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="660" y="510" as="sourcePoint" />
+            <mxPoint x="710" y="460" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
