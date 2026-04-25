@@ -40,8 +40,11 @@
         <mxCell id="FT8CpLI4xxnJU9l5H19k-13" value="管理" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="600" y="80" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="FT8CpLI4xxnJU9l5H19k-14" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="FT8CpLI4xxnJU9l5H19k-14" value="管理" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="600" y="200" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="FT8CpLI4xxnJU9l5H19k-15" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="600" y="340" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
