@@ -36,7 +36,7 @@
         <mxCell id="8waK5G65BCupeltOIRmE-3" value="图书资源管理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="160" y="295" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="8waK5G65BCupeltOIRmE-63" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="8waK5G65BCupeltOIRmE-5">
+        <mxCell id="8waK5G65BCupeltOIRmE-63" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endSize=0;" edge="1" parent="1" source="8waK5G65BCupeltOIRmE-5">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="120" y="700" as="targetPoint" />
           </mxGeometry>
