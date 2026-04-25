@@ -26,13 +26,13 @@
           <mxGeometry x="220" y="380" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ZpolmtKQ6iPGpkpgaTiy-9" value="互动管理" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;" vertex="1" parent="1">
-          <mxGeometry x="220" y="440" width="60" height="30" as="geometry" />
+          <mxGeometry x="295" y="360" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ZpolmtKQ6iPGpkpgaTiy-10" value="内容展示" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;" vertex="1" parent="1">
-          <mxGeometry x="366" y="380" width="60" height="30" as="geometry" />
+          <mxGeometry x="370" y="380" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ZpolmtKQ6iPGpkpgaTiy-13" value="后台管理" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;" vertex="1" parent="1">
-          <mxGeometry x="366" y="440" width="60" height="30" as="geometry" />
+          <mxGeometry x="235" y="430" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ZpolmtKQ6iPGpkpgaTiy-15" value="服务层" style="rounded=1;whiteSpace=wrap;html=1;fillStyle=solid;dashed=1;align=left;labelBackgroundColor=none;" vertex="1" parent="1">
           <mxGeometry x="150" y="585" width="330" height="255" as="geometry" />
