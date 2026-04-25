@@ -82,14 +82,8 @@
         <mxCell id="8waK5G65BCupeltOIRmE-38" value="" style="line;strokeWidth=1;html=1;" vertex="1" parent="1">
           <mxGeometry x="320" y="80" width="40" height="10" as="geometry" />
         </mxCell>
-        <mxCell id="8waK5G65BCupeltOIRmE-40" value="" style="line;strokeWidth=1;html=1;" vertex="1" parent="1">
-          <mxGeometry x="330" y="140" width="30" height="10" as="geometry" />
-        </mxCell>
         <mxCell id="8waK5G65BCupeltOIRmE-41" value="" style="line;strokeWidth=1;html=1;" vertex="1" parent="1">
           <mxGeometry x="330" y="211" width="30" height="10" as="geometry" />
-        </mxCell>
-        <mxCell id="8waK5G65BCupeltOIRmE-42" value="" style="line;strokeWidth=1;direction=south;html=1;perimeter=backbonePerimeter;points=[];outlineConnect=0;" vertex="1" parent="1">
-          <mxGeometry x="320" y="81" width="10" height="140" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
