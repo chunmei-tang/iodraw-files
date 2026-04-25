@@ -127,6 +127,11 @@
         <mxCell id="8waK5G65BCupeltOIRmE-15" value="评论发布" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="360" y="480" width="120" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="8waK5G65BCupeltOIRmE-61" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endSize=0;" edge="1" parent="1" source="8waK5G65BCupeltOIRmE-16">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="330" y="535" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="8waK5G65BCupeltOIRmE-16" value="评论查看" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="360" y="520" width="120" height="30" as="geometry" />
         </mxCell>
