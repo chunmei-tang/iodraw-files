@@ -76,6 +76,9 @@
         <mxCell id="8waK5G65BCupeltOIRmE-25" value="留言回复" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="570" y="900" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="8waK5G65BCupeltOIRmE-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.075;entryY=0.922;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="8waK5G65BCupeltOIRmE-11" target="8waK5G65BCupeltOIRmE-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
