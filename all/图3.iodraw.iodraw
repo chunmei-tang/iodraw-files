@@ -23,7 +23,7 @@
           <mxGeometry x="250" y="580" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="FT8CpLI4xxnJU9l5H19k-7" value="公告" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="590" y="100" width="120" height="60" as="geometry" />
+          <mxGeometry x="410" y="80" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="FT8CpLI4xxnJU9l5H19k-8" value="留言" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="430" y="210" width="120" height="60" as="geometry" />
