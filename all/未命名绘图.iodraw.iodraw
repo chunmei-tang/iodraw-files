@@ -41,7 +41,7 @@
           <mxGeometry x="260" y="600" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ZpolmtKQ6iPGpkpgaTiy-17" value="图书服务" style="rounded=1;whiteSpace=wrap;html=1;fillStyle=solid;labelBackgroundColor=none;" vertex="1" parent="1">
-          <mxGeometry x="366" y="600" width="60" height="30" as="geometry" />
+          <mxGeometry x="390" y="600" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ZpolmtKQ6iPGpkpgaTiy-18" value="文件服务" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;" vertex="1" parent="1">
           <mxGeometry x="260" y="640" width="60" height="30" as="geometry" />
@@ -107,7 +107,7 @@
           <mxGeometry x="315" y="490" width="70" height="90" as="geometry" />
         </mxCell>
         <mxCell id="ZpolmtKQ6iPGpkpgaTiy-62" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.6;dx=40;direction=north;notch=0;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="317.5" y="690" width="65" height="90" as="geometry" />
+          <mxGeometry x="320" y="700" width="65" height="90" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
