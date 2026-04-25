@@ -38,16 +38,16 @@
           <mxGeometry x="150" y="585" width="330" height="255" as="geometry" />
         </mxCell>
         <mxCell id="ZpolmtKQ6iPGpkpgaTiy-16" value="用户服务" style="rounded=0;whiteSpace=wrap;html=1;fillStyle=solid;" vertex="1" parent="1">
-          <mxGeometry x="190" y="555" width="120" height="60" as="geometry" />
+          <mxGeometry x="180" y="600" width="60" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ZpolmtKQ6iPGpkpgaTiy-17" value="图书服务" style="rounded=0;whiteSpace=wrap;html=1;fillStyle=solid;" vertex="1" parent="1">
-          <mxGeometry x="339" y="555" width="120" height="60" as="geometry" />
+          <mxGeometry x="350" y="600" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ZpolmtKQ6iPGpkpgaTiy-18" value="文件服务" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="190" y="680" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ZpolmtKQ6iPGpkpgaTiy-19" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="330" y="640" width="120" height="60" as="geometry" />
+          <mxGeometry x="339" y="690" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
