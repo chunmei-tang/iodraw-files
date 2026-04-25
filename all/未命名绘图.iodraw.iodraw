@@ -47,19 +47,19 @@
           <mxGeometry x="220" y="640" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ZpolmtKQ6iPGpkpgaTiy-19" value="评论服务" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;" vertex="1" parent="1">
-          <mxGeometry x="370" y="650" width="60" height="30" as="geometry" />
+          <mxGeometry x="366" y="640" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ZpolmtKQ6iPGpkpgaTiy-24" value="权限认证" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;" vertex="1" parent="1">
           <mxGeometry x="220" y="680" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ZpolmtKQ6iPGpkpgaTiy-25" value="操作日志" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;" vertex="1" parent="1">
-          <mxGeometry x="370" y="697.5" width="60" height="30" as="geometry" />
+          <mxGeometry x="366" y="680" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ZpolmtKQ6iPGpkpgaTiy-26" value="索引构建" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;" vertex="1" parent="1">
-          <mxGeometry x="220" y="750" width="60" height="30" as="geometry" />
+          <mxGeometry x="220" y="727.5" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ZpolmtKQ6iPGpkpgaTiy-29" value="公告服务" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="370" y="740" width="60" height="30" as="geometry" />
+          <mxGeometry x="366" y="727.5" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
