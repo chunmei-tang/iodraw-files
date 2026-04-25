@@ -13,8 +13,11 @@
         <mxCell id="ZpolmtKQ6iPGpkpgaTiy-3" value="移动终端" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="366" y="177.5" width="96" height="55" as="geometry" />
         </mxCell>
-        <mxCell id="ZpolmtKQ6iPGpkpgaTiy-4" value="应用层" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;align=center;labelPosition=center;verticalLabelPosition=middle;verticalAlign=middle;" vertex="1" parent="1">
+        <mxCell id="ZpolmtKQ6iPGpkpgaTiy-4" value="应用层" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;align=left;labelPosition=center;verticalLabelPosition=middle;verticalAlign=top;" vertex="1" parent="1">
           <mxGeometry x="170" y="290" width="330" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="ZpolmtKQ6iPGpkpgaTiy-5" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="300" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
