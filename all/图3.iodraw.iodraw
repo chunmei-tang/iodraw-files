@@ -17,10 +17,10 @@
           <mxGeometry x="270" y="350" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="FT8CpLI4xxnJU9l5H19k-5" value="添加" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="250" y="460" width="80" height="80" as="geometry" />
+          <mxGeometry x="260" y="450" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="FT8CpLI4xxnJU9l5H19k-6" value="查询" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="400" y="600" width="80" height="80" as="geometry" />
+          <mxGeometry x="250" y="580" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="FT8CpLI4xxnJU9l5H19k-7" value="公告" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="590" y="100" width="120" height="60" as="geometry" />
