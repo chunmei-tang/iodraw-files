@@ -6,7 +6,7 @@
         <mxCell id="1" parent="0" />
         <mxCell id="8waK5G65BCupeltOIRmE-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endSize=0;" edge="1" parent="1" source="8waK5G65BCupeltOIRmE-1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="130" y="570" as="targetPoint" />
+            <mxPoint x="120" y="570" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="8waK5G65BCupeltOIRmE-1" value="学习资源分享平台" style="rounded=0;whiteSpace=wrap;html=1;rotation=0;direction=south;" vertex="1" parent="1">
