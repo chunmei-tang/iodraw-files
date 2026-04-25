@@ -39,6 +39,11 @@
         <mxCell id="8waK5G65BCupeltOIRmE-5" value="评论互动" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="180" y="530" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="8waK5G65BCupeltOIRmE-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="8waK5G65BCupeltOIRmE-6">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="120" y="880" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="8waK5G65BCupeltOIRmE-6" value="公告信息" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="185" y="660" width="120" height="60" as="geometry" />
         </mxCell>
