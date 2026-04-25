@@ -17,7 +17,7 @@
           <mxGeometry x="180" y="530" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="8waK5G65BCupeltOIRmE-6" value="公告信息" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="180" y="670" width="120" height="60" as="geometry" />
+          <mxGeometry x="190" y="660" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="8waK5G65BCupeltOIRmE-7" value="用户治理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="180" y="820" width="120" height="60" as="geometry" />
@@ -53,10 +53,10 @@
           <mxGeometry x="370" y="560" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="8waK5G65BCupeltOIRmE-18" value="公告列表" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="360" y="620" width="120" height="60" as="geometry" />
+          <mxGeometry x="360" y="620" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="8waK5G65BCupeltOIRmE-19" value="公告详情" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="540" y="610" width="120" height="60" as="geometry" />
+          <mxGeometry x="540" y="600" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="8waK5G65BCupeltOIRmE-20" value="用户审核" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="390" y="740" width="120" height="60" as="geometry" />
