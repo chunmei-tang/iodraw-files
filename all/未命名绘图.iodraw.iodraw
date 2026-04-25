@@ -65,7 +65,7 @@
           <mxGeometry x="222.5" y="820" width="280" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ZpolmtKQ6iPGpkpgaTiy-32" value="资源层" style="rounded=1;whiteSpace=wrap;html=1;align=left;dashed=1;" vertex="1" parent="1">
-          <mxGeometry x="195" y="920" width="330" height="210" as="geometry" />
+          <mxGeometry x="190" y="940" width="330" height="210" as="geometry" />
         </mxCell>
         <mxCell id="ZpolmtKQ6iPGpkpgaTiy-33" value="MySQL数据库" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="260" y="930" width="60" height="30" as="geometry" />
@@ -92,7 +92,7 @@
           <mxGeometry x="90" y="650" width="100" height="70" as="geometry" />
         </mxCell>
         <mxCell id="ZpolmtKQ6iPGpkpgaTiy-57" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.6;dx=40;notch=0;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="90" y="950" width="100" height="70" as="geometry" />
+          <mxGeometry x="80" y="1000" width="100" height="70" as="geometry" />
         </mxCell>
         <mxCell id="ZpolmtKQ6iPGpkpgaTiy-58" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.6;dx=40;direction=south;notch=0;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="245" y="220" width="65" height="90" as="geometry" />
@@ -107,7 +107,7 @@
           <mxGeometry x="330" y="750" width="65" height="70" as="geometry" />
         </mxCell>
         <mxCell id="ZpolmtKQ6iPGpkpgaTiy-73" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.6;dx=40;direction=south;notch=0;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="240" y="870" width="70" height="100" as="geometry" />
+          <mxGeometry x="240" y="870" width="60" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
