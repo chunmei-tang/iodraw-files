@@ -55,7 +55,7 @@
         <mxCell id="ZpolmtKQ6iPGpkpgaTiy-25" value="操作日志" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;" vertex="1" parent="1">
           <mxGeometry x="370" y="697.5" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="ZpolmtKQ6iPGpkpgaTiy-26" value="" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;" vertex="1" parent="1">
+        <mxCell id="ZpolmtKQ6iPGpkpgaTiy-26" value="索引构建" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;" vertex="1" parent="1">
           <mxGeometry x="220" y="750" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ZpolmtKQ6iPGpkpgaTiy-28" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
