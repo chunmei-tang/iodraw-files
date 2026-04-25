@@ -4,7 +4,7 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="ZpolmtKQ6iPGpkpgaTiy-1" value="接入层" style="rounded=1;whiteSpace=wrap;html=1;labelPosition=center;verticalLabelPosition=middle;align=left;verticalAlign=top;dashed=1;fillColor=#F5F0FF;" vertex="1" parent="1">
+        <mxCell id="ZpolmtKQ6iPGpkpgaTiy-1" value="接入层" style="rounded=1;whiteSpace=wrap;html=1;labelPosition=center;verticalLabelPosition=middle;align=left;verticalAlign=top;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="170" y="170" width="330" height="70" as="geometry" />
         </mxCell>
         <mxCell id="ZpolmtKQ6iPGpkpgaTiy-2" value="浏览器" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
