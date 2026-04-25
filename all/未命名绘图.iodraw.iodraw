@@ -31,7 +31,7 @@
         <mxCell id="ZpolmtKQ6iPGpkpgaTiy-10" value="内容展示" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="370" y="380" width="90" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="ZpolmtKQ6iPGpkpgaTiy-11" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="ZpolmtKQ6iPGpkpgaTiy-11" value="后台管理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="366" y="450" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
