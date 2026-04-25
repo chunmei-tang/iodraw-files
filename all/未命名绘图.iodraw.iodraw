@@ -73,11 +73,14 @@
         <mxCell id="ZpolmtKQ6iPGpkpgaTiy-34" value="Lucene索引库" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="195" y="1020" width="60" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="ZpolmtKQ6iPGpkpgaTiy-37" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="ZpolmtKQ6iPGpkpgaTiy-35" target="ZpolmtKQ6iPGpkpgaTiy-32">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="ZpolmtKQ6iPGpkpgaTiy-35" value="文件存储服务器" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="315" y="915" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ZpolmtKQ6iPGpkpgaTiy-36" value="应用服务器" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="285" y="1010" width="60" height="60" as="geometry" />
+          <mxGeometry x="285" y="1010" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
