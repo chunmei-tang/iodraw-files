@@ -19,8 +19,11 @@
         <mxCell id="8waK5G65BCupeltOIRmE-6" value="公告信息" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="190" y="400" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="8waK5G65BCupeltOIRmE-7" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="8waK5G65BCupeltOIRmE-7" value="用户治理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="200" y="525" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8waK5G65BCupeltOIRmE-8" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="330" y="70" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
