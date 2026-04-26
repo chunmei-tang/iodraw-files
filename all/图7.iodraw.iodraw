@@ -21,6 +21,19 @@
         <mxCell id="DJpyZkofpEQm47kFETXV-2" value="图书控制器" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
           <mxGeometry x="250" y="40" width="100" height="300" as="geometry" />
         </mxCell>
+        <mxCell id="DJpyZkofpEQm47kFETXV-14" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="DJpyZkofpEQm47kFETXV-2">
+          <mxGeometry x="45" y="80" width="10" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="DJpyZkofpEQm47kFETXV-15" value="callback" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;" edge="1" target="DJpyZkofpEQm47kFETXV-14" parent="DJpyZkofpEQm47kFETXV-2">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="125" y="85" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DJpyZkofpEQm47kFETXV-16" value="return" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;exitX=1;exitY=1;exitDx=0;exitDy=-5;" edge="1" source="DJpyZkofpEQm47kFETXV-14" parent="DJpyZkofpEQm47kFETXV-2">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="125" y="155" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="DJpyZkofpEQm47kFETXV-3" value="图书服务" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
           <mxGeometry x="364" y="40" width="100" height="300" as="geometry" />
         </mxCell>
@@ -45,7 +58,7 @@
         <mxCell id="DJpyZkofpEQm47kFETXV-10" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
           <mxGeometry x="175" y="110" width="10" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="DJpyZkofpEQm47kFETXV-11" value="callback" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;entryX=1;entryY=0;entryDx=0;entryDy=5;" edge="1" target="DJpyZkofpEQm47kFETXV-10" parent="1">
+        <mxCell id="DJpyZkofpEQm47kFETXV-11" value="callback" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;" edge="1" target="DJpyZkofpEQm47kFETXV-2" parent="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="255" y="115" as="sourcePoint" />
           </mxGeometry>
