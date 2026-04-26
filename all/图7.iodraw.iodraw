@@ -100,7 +100,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="DJpyZkofpEQm47kFETXV-15" value="callback" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;" edge="1" target="DJpyZkofpEQm47kFETXV-3" parent="1">
+        <mxCell id="DJpyZkofpEQm47kFETXV-15" value="callback" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;exitX=0.5;exitY=0.125;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" target="DJpyZkofpEQm47kFETXV-3" parent="1" source="DJpyZkofpEQm47kFETXV-14">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="310" y="150" as="sourcePoint" />
             <mxPoint x="330" y="135" as="targetPoint" />
