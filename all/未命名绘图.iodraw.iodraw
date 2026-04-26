@@ -79,7 +79,7 @@
             <mxPoint x="540" y="220" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Mmre-WXRydmmJZSJdU0O-17" value="return" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;" edge="1" source="Mmre-WXRydmmJZSJdU0O-18" parent="1" target="Mmre-WXRydmmJZSJdU0O-3">
+        <mxCell id="Mmre-WXRydmmJZSJdU0O-17" value="写入Session" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;" edge="1" source="Mmre-WXRydmmJZSJdU0O-18" parent="1" target="Mmre-WXRydmmJZSJdU0O-3">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="414" y="235" as="targetPoint" />
           </mxGeometry>
