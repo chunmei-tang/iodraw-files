@@ -89,9 +89,9 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="DJpyZkofpEQm47kFETXV-19" value="return" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;" edge="1" source="DJpyZkofpEQm47kFETXV-4" parent="1">
+        <mxCell id="DJpyZkofpEQm47kFETXV-19" value="返回图书ID" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;" edge="1" source="DJpyZkofpEQm47kFETXV-4" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="414" y="190" as="targetPoint" />
+            <mxPoint x="420" y="190" as="targetPoint" />
             <Array as="points">
               <mxPoint x="510" y="190" />
             </Array>
