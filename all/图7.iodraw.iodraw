@@ -36,6 +36,7 @@
         <mxCell id="DJpyZkofpEQm47kFETXV-8" value="callback" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;" edge="1" target="DJpyZkofpEQm47kFETXV-1" parent="1" source="otnMqZHSrX-lSqymr7Mh-1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="135" y="115" as="sourcePoint" />
+            <mxPoint x="160" y="110" as="targetPoint" />
             <Array as="points">
               <mxPoint x="120" y="110" />
             </Array>
