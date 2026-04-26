@@ -70,7 +70,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="yL8TD63rb1ivgWhnyL0P-28" value="return" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;" edge="1" source="yL8TD63rb1ivgWhnyL0P-26" parent="1">
+        <mxCell id="yL8TD63rb1ivgWhnyL0P-28" value="返回用户信息" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;" edge="1" source="yL8TD63rb1ivgWhnyL0P-26" parent="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="490" y="280" as="targetPoint" />
             <mxPoint x="615.5" y="275" as="sourcePoint" />
