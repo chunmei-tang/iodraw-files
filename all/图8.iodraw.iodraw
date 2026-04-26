@@ -104,10 +104,10 @@
             <mxPoint x="740" y="219.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ghxAfNCu8uCwAhKf-_Sp-25" value="dispatch" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;" edge="1" parent="1" target="ghxAfNCu8uCwAhKf-_Sp-6">
+        <mxCell id="ghxAfNCu8uCwAhKf-_Sp-25" value="查询详情" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;" edge="1" parent="1" target="ghxAfNCu8uCwAhKf-_Sp-24">
           <mxGeometry width="80" relative="1" as="geometry">
             <mxPoint x="350" y="240" as="sourcePoint" />
-            <mxPoint x="420" y="240" as="targetPoint" />
+            <mxPoint x="710" y="240" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
