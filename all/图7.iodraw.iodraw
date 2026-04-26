@@ -95,7 +95,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="DJpyZkofpEQm47kFETXV-15" value="保存元数据" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;" edge="1" parent="1">
+        <mxCell id="DJpyZkofpEQm47kFETXV-15" value="保存元数据" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;entryX=0;entryY=0;entryDx=0;entryDy=5;entryPerimeter=0;" edge="1" target="DJpyZkofpEQm47kFETXV-20" parent="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="310" y="150" as="sourcePoint" />
             <mxPoint x="520" y="150" as="targetPoint" />
