@@ -67,7 +67,7 @@
             <mxPoint x="300" y="140" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="DJpyZkofpEQm47kFETXV-12" value="return" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;" edge="1" source="DJpyZkofpEQm47kFETXV-2" parent="1" target="DJpyZkofpEQm47kFETXV-10">
+        <mxCell id="DJpyZkofpEQm47kFETXV-12" value="上传成功" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;" edge="1" source="DJpyZkofpEQm47kFETXV-2" parent="1" target="DJpyZkofpEQm47kFETXV-10">
           <mxGeometry x="-0.0044" relative="1" as="geometry">
             <mxPoint x="190" y="340" as="targetPoint" />
             <Array as="points">
