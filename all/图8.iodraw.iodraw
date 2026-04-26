@@ -68,9 +68,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="ghxAfNCu8uCwAhKf-_Sp-16" value="倒排检索" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;" edge="1" parent="1">
-          <mxGeometry width="80" relative="1" as="geometry">
+          <mxGeometry x="0.0095" width="80" relative="1" as="geometry">
             <mxPoint x="230" y="130" as="sourcePoint" />
             <mxPoint x="335" y="130" as="targetPoint" />
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
       </root>
