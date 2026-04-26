@@ -24,16 +24,11 @@
         <mxCell id="DJpyZkofpEQm47kFETXV-14" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="DJpyZkofpEQm47kFETXV-2">
           <mxGeometry x="45" y="100" width="10" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="DJpyZkofpEQm47kFETXV-16" value="return" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;exitX=1;exitY=1;exitDx=0;exitDy=-5;" edge="1" source="DJpyZkofpEQm47kFETXV-14" parent="DJpyZkofpEQm47kFETXV-2">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="125" y="155" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="DJpyZkofpEQm47kFETXV-3" value="图书服务" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
           <mxGeometry x="364" y="40" width="100" height="300" as="geometry" />
         </mxCell>
         <mxCell id="DJpyZkofpEQm47kFETXV-17" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="DJpyZkofpEQm47kFETXV-3">
-          <mxGeometry x="45" y="110" width="10" height="80" as="geometry" />
+          <mxGeometry x="45" y="110" width="10" height="40" as="geometry" />
         </mxCell>
         <mxCell id="DJpyZkofpEQm47kFETXV-4" value="数据库" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
           <mxGeometry x="480" y="40" width="100" height="300" as="geometry" />
