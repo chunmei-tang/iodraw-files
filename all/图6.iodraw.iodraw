@@ -10,13 +10,10 @@
             <mxPoint x="200" y="170" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="yL8TD63rb1ivgWhnyL0P-3" value="return" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;" edge="1" source="yL8TD63rb1ivgWhnyL0P-16" parent="1">
+        <mxCell id="yL8TD63rb1ivgWhnyL0P-3" value="return" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;" edge="1" source="yL8TD63rb1ivgWhnyL0P-16" parent="1" target="yL8TD63rb1ivgWhnyL0P-11">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="130" y="340" as="targetPoint" />
             <mxPoint x="200" y="340" as="sourcePoint" />
-            <Array as="points">
-              <mxPoint x="80" y="340" />
-            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="yL8TD63rb1ivgWhnyL0P-11" value="用户" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
