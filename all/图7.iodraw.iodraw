@@ -35,8 +35,8 @@
         </mxCell>
         <mxCell id="1Xodj_apmpzEVPTIHiQV-16" value="callback" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="70" y="250" as="sourcePoint" />
-            <mxPoint x="190" y="250" as="targetPoint" />
+            <mxPoint x="60" y="240" as="sourcePoint" />
+            <mxPoint x="180" y="240" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
