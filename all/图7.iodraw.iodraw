@@ -109,7 +109,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="DJpyZkofpEQm47kFETXV-32" value="&lt;p style=&quot;line-height: 120%;&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; 索引完成&lt;/p&gt;" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;" edge="1" parent="1" target="DJpyZkofpEQm47kFETXV-29">
-          <mxGeometry x="-0.1111" y="30" relative="1" as="geometry">
+          <mxGeometry x="-0.1111" y="-10" relative="1" as="geometry">
             <mxPoint x="810" y="290" as="sourcePoint" />
             <mxPoint x="770" y="290" as="targetPoint" />
             <mxPoint as="offset" />
