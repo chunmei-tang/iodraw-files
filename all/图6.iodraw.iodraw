@@ -76,7 +76,7 @@
             <mxPoint x="555" y="285" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="yL8TD63rb1ivgWhnyL0P-29" value="dispatch" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;" edge="1" parent="1" target="yL8TD63rb1ivgWhnyL0P-23">
+        <mxCell id="yL8TD63rb1ivgWhnyL0P-29" value="写入Session" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;" edge="1" parent="1" target="yL8TD63rb1ivgWhnyL0P-23">
           <mxGeometry width="80" relative="1" as="geometry">
             <mxPoint x="350" y="300" as="sourcePoint" />
             <mxPoint x="470" y="300" as="targetPoint" />
