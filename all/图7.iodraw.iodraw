@@ -13,10 +13,10 @@
         <mxCell id="1Xodj_apmpzEVPTIHiQV-3" value="图书控制器" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="250" y="70" width="110" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="1Xodj_apmpzEVPTIHiQV-4" value="Object" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
+        <mxCell id="1Xodj_apmpzEVPTIHiQV-4" value="图书服务" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="370" y="70" width="110" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="1Xodj_apmpzEVPTIHiQV-5" value="Object" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
+        <mxCell id="1Xodj_apmpzEVPTIHiQV-5" value="数据库" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="490" y="70" width="110" height="50" as="geometry" />
         </mxCell>
         <mxCell id="1Xodj_apmpzEVPTIHiQV-6" value="Object" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
