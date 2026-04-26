@@ -95,15 +95,15 @@
           <mxGeometry x="NaN" y="51" relative="1" as="geometry">
             <mxPoint x="810" y="220" as="sourcePoint" />
             <mxPoint x="730" y="220" as="targetPoint" />
-            <mxPoint x="50" y="-10" as="offset" />
+            <mxPoint x="50" y="10" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="ghxAfNCu8uCwAhKf-_Sp-23" value="" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="820" y="219.5" as="sourcePoint" />
-            <mxPoint x="740" y="219.5" as="targetPoint" />
+            <mxPoint x="820" y="250" as="sourcePoint" />
+            <mxPoint x="740" y="250" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="770" y="220" />
+              <mxPoint x="770" y="250.5" />
             </Array>
           </mxGeometry>
         </mxCell>
