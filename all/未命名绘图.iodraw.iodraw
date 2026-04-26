@@ -26,7 +26,7 @@
             <mxPoint x="140" y="85" as="sourcePoint" />
             <mxPoint x="160" y="80" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="50" y="80" />
+              <mxPoint x="50" y="85" />
             </Array>
             <mxPoint as="offset" />
           </mxGeometry>
@@ -42,7 +42,7 @@
         <mxCell id="Mmre-WXRydmmJZSJdU0O-15" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="Mmre-WXRydmmJZSJdU0O-3">
           <mxGeometry x="45" y="80" width="10" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="Mmre-WXRydmmJZSJdU0O-16" value="callback" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;entryX=1;entryY=0;entryDx=0;entryDy=5;" edge="1" target="Mmre-WXRydmmJZSJdU0O-15" parent="Mmre-WXRydmmJZSJdU0O-3">
+        <mxCell id="Mmre-WXRydmmJZSJdU0O-16" value="callback" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;" edge="1" target="Mmre-WXRydmmJZSJdU0O-4" parent="Mmre-WXRydmmJZSJdU0O-3">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="124" y="85" as="sourcePoint" />
           </mxGeometry>
