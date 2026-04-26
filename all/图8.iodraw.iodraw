@@ -91,7 +91,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="ghxAfNCu8uCwAhKf-_Sp-22" value="return" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;" edge="1" parent="1" source="ghxAfNCu8uCwAhKf-_Sp-24">
+        <mxCell id="ghxAfNCu8uCwAhKf-_Sp-22" value="返回图书信息" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;" edge="1" parent="1" source="ghxAfNCu8uCwAhKf-_Sp-24">
           <mxGeometry x="NaN" y="51" relative="1" as="geometry">
             <mxPoint x="810" y="220" as="sourcePoint" />
             <mxPoint x="730" y="220" as="targetPoint" />
