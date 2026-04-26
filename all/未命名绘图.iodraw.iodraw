@@ -21,8 +21,8 @@
         <mxCell id="Mmre-WXRydmmJZSJdU0O-10" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="Mmre-WXRydmmJZSJdU0O-2">
           <mxGeometry x="45" y="70" width="10" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="Mmre-WXRydmmJZSJdU0O-11" value="callback" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;" edge="1" target="Mmre-WXRydmmJZSJdU0O-3" parent="Mmre-WXRydmmJZSJdU0O-2">
-          <mxGeometry x="0.337" y="20" relative="1" as="geometry">
+        <mxCell id="Mmre-WXRydmmJZSJdU0O-11" value="提交登录" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;" edge="1" target="Mmre-WXRydmmJZSJdU0O-3" parent="Mmre-WXRydmmJZSJdU0O-2">
+          <mxGeometry x="0.337" y="10" relative="1" as="geometry">
             <mxPoint x="130" y="80" as="sourcePoint" />
             <Array as="points">
               <mxPoint x="60" y="80" />
