@@ -55,11 +55,12 @@
             <mxPoint x="320" y="180" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="yL8TD63rb1ivgWhnyL0P-21" value="callback" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;" edge="1" target="yL8TD63rb1ivgWhnyL0P-14" parent="1" source="yL8TD63rb1ivgWhnyL0P-13">
+        <mxCell id="yL8TD63rb1ivgWhnyL0P-21" value="callback" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="414" y="185" as="sourcePoint" />
+            <mxPoint x="350" y="210" as="sourcePoint" />
+            <mxPoint x="439.5" y="210" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="410" y="180" />
+              <mxPoint x="370" y="210" />
             </Array>
           </mxGeometry>
         </mxCell>
