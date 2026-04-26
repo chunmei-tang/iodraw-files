@@ -54,7 +54,7 @@
         <mxCell id="yL8TD63rb1ivgWhnyL0P-15" value="数据库" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
           <mxGeometry x="570" y="30" width="100" height="300" as="geometry" />
         </mxCell>
-        <mxCell id="yL8TD63rb1ivgWhnyL0P-17" value="callback" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;entryX=0;entryY=0;entryDx=0;entryDy=5;entryPerimeter=0;" edge="1" target="yL8TD63rb1ivgWhnyL0P-20" parent="1">
+        <mxCell id="yL8TD63rb1ivgWhnyL0P-17" value="提交登录" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;entryX=0;entryY=0;entryDx=0;entryDy=5;entryPerimeter=0;" edge="1" target="yL8TD63rb1ivgWhnyL0P-20" parent="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="220" y="185" as="sourcePoint" />
             <mxPoint x="320" y="180" as="targetPoint" />
