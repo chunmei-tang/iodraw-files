@@ -102,6 +102,9 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="820" y="219.5" as="sourcePoint" />
             <mxPoint x="740" y="219.5" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="770" y="220" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="ghxAfNCu8uCwAhKf-_Sp-25" value="查询详情" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;" edge="1" parent="1" target="ghxAfNCu8uCwAhKf-_Sp-24">
