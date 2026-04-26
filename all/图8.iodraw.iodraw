@@ -93,7 +93,7 @@
         </mxCell>
         <mxCell id="ghxAfNCu8uCwAhKf-_Sp-23" value="" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="820" y="250" as="sourcePoint" />
+            <mxPoint x="810" y="250" as="sourcePoint" />
             <mxPoint x="740" y="250" as="targetPoint" />
             <Array as="points">
               <mxPoint x="770" y="250.5" />
@@ -103,7 +103,7 @@
         <mxCell id="ghxAfNCu8uCwAhKf-_Sp-25" value="查询详情" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;" edge="1" parent="1">
           <mxGeometry width="80" relative="1" as="geometry">
             <mxPoint x="350" y="230" as="sourcePoint" />
-            <mxPoint x="730" y="230" as="targetPoint" />
+            <mxPoint x="720" y="230" as="targetPoint" />
             <Array as="points">
               <mxPoint x="540" y="230" />
             </Array>
