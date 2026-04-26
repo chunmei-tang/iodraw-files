@@ -82,8 +82,8 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="Mmre-WXRydmmJZSJdU0O-12" value="登录成功&lt;div&gt;跳转首页&lt;/div&gt;" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;" edge="1" parent="1">
-          <mxGeometry x="0.0868" y="10" relative="1" as="geometry">
+        <mxCell id="Mmre-WXRydmmJZSJdU0O-12" value="登录成功&lt;div&gt;&lt;br&gt;&lt;div&gt;跳转首页&lt;/div&gt;&lt;/div&gt;" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;" edge="1" parent="1">
+          <mxGeometry x="0.0868" y="30" relative="1" as="geometry">
             <mxPoint x="230" y="270" as="targetPoint" />
             <mxPoint x="339.5" y="270" as="sourcePoint" />
             <Array as="points" />
