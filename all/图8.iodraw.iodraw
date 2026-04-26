@@ -111,6 +111,10 @@
         <mxCell id="ghxAfNCu8uCwAhKf-_Sp-9" value="return" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;" edge="1" source="ghxAfNCu8uCwAhKf-_Sp-1" parent="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="160" y="300" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="210" y="300" />
+              <mxPoint x="190" y="300" />
+            </Array>
           </mxGeometry>
         </mxCell>
       </root>
