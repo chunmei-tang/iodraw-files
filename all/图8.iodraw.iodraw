@@ -72,9 +72,6 @@
             <mxPoint x="330" y="150" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ghxAfNCu8uCwAhKf-_Sp-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=0;" edge="1" parent="1" source="ghxAfNCu8uCwAhKf-_Sp-10" target="ghxAfNCu8uCwAhKf-_Sp-13">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
