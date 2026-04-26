@@ -111,10 +111,16 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="DJpyZkofpEQm47kFETXV-32" value="&amp;nbsp; &amp;nbsp;索引完成" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;" edge="1" parent="1" target="DJpyZkofpEQm47kFETXV-29">
-          <mxGeometry x="-0.1111" y="-22" relative="1" as="geometry">
+          <mxGeometry x="-0.1111" y="-10" relative="1" as="geometry">
             <mxPoint x="810" y="290" as="sourcePoint" />
             <mxPoint x="770" y="290" as="targetPoint" />
             <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DJpyZkofpEQm47kFETXV-33" value="dispatch" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="80" relative="1" as="geometry">
+            <mxPoint x="300" y="250" as="sourcePoint" />
+            <mxPoint x="380" y="250" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
