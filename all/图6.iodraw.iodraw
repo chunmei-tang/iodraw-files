@@ -20,8 +20,11 @@
         <mxCell id="yL8TD63rb1ivgWhnyL0P-5" value="&lt;u&gt;用户&lt;/u&gt;" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="60" y="80" width="110" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="yL8TD63rb1ivgWhnyL0P-6" value="Object" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
+        <mxCell id="yL8TD63rb1ivgWhnyL0P-6" value="登录页面" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="200" y="80" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="yL8TD63rb1ivgWhnyL0P-7" value="登录控制器" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="340" y="80" width="110" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
