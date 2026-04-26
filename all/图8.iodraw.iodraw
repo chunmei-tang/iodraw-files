@@ -108,13 +108,12 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="ghxAfNCu8uCwAhKf-_Sp-25" value="查询详情" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;" edge="1" parent="1">
-          <mxGeometry x="-0.0933" y="-10" width="80" relative="1" as="geometry">
-            <mxPoint x="350" y="220" as="sourcePoint" />
-            <mxPoint x="725" y="220" as="targetPoint" />
+          <mxGeometry width="80" relative="1" as="geometry">
+            <mxPoint x="350" y="230" as="sourcePoint" />
+            <mxPoint x="725" y="230" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="540" y="220" />
+              <mxPoint x="540" y="230" />
             </Array>
-            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="ghxAfNCu8uCwAhKf-_Sp-26" value="返回结果&lt;div&gt;展示列表&lt;/div&gt;" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;" edge="1" parent="1">
