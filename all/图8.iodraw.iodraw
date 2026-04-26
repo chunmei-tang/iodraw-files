@@ -81,10 +81,10 @@
         </mxCell>
         <mxCell id="ghxAfNCu8uCwAhKf-_Sp-15" value="返回文档ID" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="350" y="200" as="targetPoint" />
-            <mxPoint x="460" y="200" as="sourcePoint" />
+            <mxPoint x="470" y="210" as="targetPoint" />
+            <mxPoint x="580" y="210" as="sourcePoint" />
             <Array as="points">
-              <mxPoint x="390" y="200" />
+              <mxPoint x="510" y="210" />
             </Array>
           </mxGeometry>
         </mxCell>
