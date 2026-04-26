@@ -52,7 +52,7 @@
         </mxCell>
         <mxCell id="yL8TD63rb1ivgWhnyL0P-17" value="提交登录" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;entryX=0;entryY=0;entryDx=0;entryDy=5;entryPerimeter=0;" edge="1" target="yL8TD63rb1ivgWhnyL0P-20" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="220" y="190" as="sourcePoint" />
+            <mxPoint x="220" y="195" as="sourcePoint" />
             <mxPoint x="320" y="180" as="targetPoint" />
           </mxGeometry>
         </mxCell>
