@@ -10,9 +10,6 @@
         <mxCell id="DooXWZJegpZNEYYrQFrJ-2" value="查询数据库" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="270" y="100" width="100" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="DooXWZJegpZNEYYrQFrJ-3" value="数据库是否为空" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="270" y="180" width="100" height="100" as="geometry" />
-        </mxCell>
         <mxCell id="DooXWZJegpZNEYYrQFrJ-4" value="显示全部未处理信息" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="280" y="310" width="100" height="50" as="geometry" />
         </mxCell>
@@ -53,11 +50,26 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="DooXWZJegpZNEYYrQFrJ-16" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="DooXWZJegpZNEYYrQFrJ-16" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="DooXWZJegpZNEYYrQFrJ-3">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="320" y="150" as="sourcePoint" />
             <mxPoint x="370" y="100" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="DooXWZJegpZNEYYrQFrJ-17" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1" source="DooXWZJegpZNEYYrQFrJ-3">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="320" y="280" as="sourcePoint" />
+            <mxPoint x="370" y="230" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DooXWZJegpZNEYYrQFrJ-18" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1" target="DooXWZJegpZNEYYrQFrJ-3">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="320" y="280" as="sourcePoint" />
+            <mxPoint x="370" y="230" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DooXWZJegpZNEYYrQFrJ-3" value="数据库是否为空" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="270" y="180" width="70" height="100" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
