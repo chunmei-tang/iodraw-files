@@ -48,6 +48,11 @@
         <mxCell id="DooXWZJegpZNEYYrQFrJ-9" value="是否更新成功" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="270" y="600" width="100" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="DooXWZJegpZNEYYrQFrJ-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="DooXWZJegpZNEYYrQFrJ-10">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="370" y="330" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="DooXWZJegpZNEYYrQFrJ-10" value="是否成功" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="440" y="710" width="100" height="80" as="geometry" />
         </mxCell>
