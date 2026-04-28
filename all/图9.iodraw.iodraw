@@ -99,11 +99,16 @@
         </mxCell>
         <mxCell id="DooXWZJegpZNEYYrQFrJ-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="390" y="840" as="targetPoint" />
-            <mxPoint x="150" y="525" as="sourcePoint" />
+            <mxPoint x="360" y="900" as="targetPoint" />
+            <mxPoint x="120" y="585" as="sourcePoint" />
             <Array as="points">
-              <mxPoint x="150" y="840" />
+              <mxPoint x="120" y="900" />
             </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DooXWZJegpZNEYYrQFrJ-57" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="DooXWZJegpZNEYYrQFrJ-55">
+          <mxGeometry x="0.9916" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="DooXWZJegpZNEYYrQFrJ-14" value="未处理的信息" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
