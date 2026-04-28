@@ -96,7 +96,10 @@
         </mxCell>
         <mxCell id="DooXWZJegpZNEYYrQFrJ-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="DooXWZJegpZNEYYrQFrJ-14">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="150" y="830" as="targetPoint" />
+            <mxPoint x="320" y="840" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="321" y="500" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="DooXWZJegpZNEYYrQFrJ-14" value="未处理的信息" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
