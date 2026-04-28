@@ -25,6 +25,9 @@
         <mxCell id="DooXWZJegpZNEYYrQFrJ-7" value="更新数据库" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="290" y="500" width="100" height="50" as="geometry" />
         </mxCell>
+        <mxCell id="DooXWZJegpZNEYYrQFrJ-8" value="更新数据库" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="300" y="510" width="100" height="50" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
