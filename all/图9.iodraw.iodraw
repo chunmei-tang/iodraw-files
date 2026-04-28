@@ -34,8 +34,8 @@
         <mxCell id="DooXWZJegpZNEYYrQFrJ-10" value="是否更新成功" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="440" y="580" width="100" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="DooXWZJegpZNEYYrQFrJ-11" value="" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="300" y="700" width="100" height="100" as="geometry" />
+        <mxCell id="DooXWZJegpZNEYYrQFrJ-11" value="删除成功" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="300" y="700" width="100" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
