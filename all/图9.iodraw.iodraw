@@ -106,11 +106,6 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="DooXWZJegpZNEYYrQFrJ-57" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="DooXWZJegpZNEYYrQFrJ-55">
-          <mxGeometry x="0.9916" y="1" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="DooXWZJegpZNEYYrQFrJ-14" value="未处理的信息" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="100" y="475" width="100" height="50" as="geometry" />
         </mxCell>
