@@ -55,7 +55,7 @@
           <mxGeometry x="490" y="270" width="80" height="60" as="geometry" />
         </mxCell>
         <mxCell id="pXKIjf9BlQTj5GgiYZoW-7" value="拦截提示" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="450" y="380" width="120" height="40" as="geometry" />
+          <mxGeometry x="400" y="390" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="pXKIjf9BlQTj5GgiYZoW-8" value="删除成功" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="600" y="380" width="120" height="40" as="geometry" />
@@ -93,6 +93,9 @@
         </mxCell>
         <mxCell id="pXKIjf9BlQTj5GgiYZoW-19" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.436;entryY=0.033;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="pXKIjf9BlQTj5GgiYZoW-4" target="pXKIjf9BlQTj5GgiYZoW-5">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pXKIjf9BlQTj5GgiYZoW-23" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="360" y="555" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
