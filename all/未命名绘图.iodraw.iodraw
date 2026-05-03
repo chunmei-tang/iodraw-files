@@ -25,8 +25,8 @@
         <mxCell id="pXKIjf9BlQTj5GgiYZoW-2" value="删除" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;labelBackgroundColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="490" y="160" width="80" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="pXKIjf9BlQTj5GgiYZoW-4" value="" style="strokeWidth=3;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="190" y="340" width="80" height="60" as="geometry" />
+        <mxCell id="pXKIjf9BlQTj5GgiYZoW-4" value="填写是否完整" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="180" y="340" width="80" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
