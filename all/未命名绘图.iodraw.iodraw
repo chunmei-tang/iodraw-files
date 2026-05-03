@@ -62,8 +62,8 @@
         </mxCell>
         <mxCell id="pXKIjf9BlQTj5GgiYZoW-37" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="740" y="188" as="sourcePoint" />
-            <mxPoint x="660" y="610" as="targetPoint" />
+            <mxPoint x="740" y="180" as="sourcePoint" />
+            <mxPoint x="510" y="602" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="pXKIjf9BlQTj5GgiYZoW-2" value="删除" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;labelBackgroundColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
