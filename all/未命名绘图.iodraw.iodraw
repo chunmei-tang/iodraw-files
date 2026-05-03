@@ -35,7 +35,10 @@
           <mxGeometry x="500" y="260" width="80" height="60" as="geometry" />
         </mxCell>
         <mxCell id="pXKIjf9BlQTj5GgiYZoW-7" value="拦截提示" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="490" y="430" width="120" height="40" as="geometry" />
+          <mxGeometry x="450" y="380" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="pXKIjf9BlQTj5GgiYZoW-8" value="删除成功" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="610" y="370" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
