@@ -40,6 +40,9 @@
         <mxCell id="pXKIjf9BlQTj5GgiYZoW-1" value="编辑" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="340" y="160" width="80" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="pXKIjf9BlQTj5GgiYZoW-2" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="490" y="150" width="80" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
