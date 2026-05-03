@@ -152,8 +152,11 @@
         <mxCell id="pXKIjf9BlQTj5GgiYZoW-34" value="否" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="440" y="328" width="40" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="pXKIjf9BlQTj5GgiYZoW-35" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="655" y="348" width="50" height="30" as="geometry" />
+        <mxCell id="pXKIjf9BlQTj5GgiYZoW-35" value="否" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="660" y="348" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="pXKIjf9BlQTj5GgiYZoW-36" value="是" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="620" y="228" width="40" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
