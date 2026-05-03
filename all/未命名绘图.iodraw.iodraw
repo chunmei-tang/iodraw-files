@@ -41,7 +41,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="pXKIjf9BlQTj5GgiYZoW-2" value="删除" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;labelBackgroundColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="490" y="160" width="80" height="60" as="geometry" />
+          <mxGeometry x="590" y="158" width="80" height="60" as="geometry" />
         </mxCell>
         <mxCell id="pXKIjf9BlQTj5GgiYZoW-20" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;endSize=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="pXKIjf9BlQTj5GgiYZoW-4">
           <mxGeometry relative="1" as="geometry">
@@ -126,8 +126,8 @@
         <mxCell id="pXKIjf9BlQTj5GgiYZoW-29" value="是" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="280" y="348" width="40" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="pXKIjf9BlQTj5GgiYZoW-30" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="355" y="228" width="50" height="30" as="geometry" />
+        <mxCell id="pXKIjf9BlQTj5GgiYZoW-30" value="是" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="360" y="228" width="40" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
