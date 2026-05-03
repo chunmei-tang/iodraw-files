@@ -34,9 +34,9 @@
         <mxCell id="pXKIjf9BlQTj5GgiYZoW-2" value="删除" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;labelBackgroundColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="490" y="160" width="80" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="pXKIjf9BlQTj5GgiYZoW-20" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;endSize=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="pXKIjf9BlQTj5GgiYZoW-4">
+        <mxCell id="pXKIjf9BlQTj5GgiYZoW-20" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;endSize=10;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="pXKIjf9BlQTj5GgiYZoW-4">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="360" y="380" as="targetPoint" />
+            <mxPoint x="370" y="380" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="pXKIjf9BlQTj5GgiYZoW-4" value="填写是否完整" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
