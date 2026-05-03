@@ -123,6 +123,12 @@
         <mxCell id="pXKIjf9BlQTj5GgiYZoW-28" value="否" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="170" y="398" width="40" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="pXKIjf9BlQTj5GgiYZoW-29" value="是" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="280" y="348" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="pXKIjf9BlQTj5GgiYZoW-30" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="355" y="228" width="50" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
