@@ -40,6 +40,9 @@
         <mxCell id="pXKIjf9BlQTj5GgiYZoW-8" value="删除成功" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="600" y="380" width="120" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="pXKIjf9BlQTj5GgiYZoW-9" value="修改图书信息" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="300" y="250" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
