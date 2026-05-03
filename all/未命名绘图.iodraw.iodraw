@@ -60,6 +60,12 @@
         <mxCell id="pXKIjf9BlQTj5GgiYZoW-16" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="pXKIjf9BlQTj5GgiYZoW-2" target="pXKIjf9BlQTj5GgiYZoW-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="pXKIjf9BlQTj5GgiYZoW-37" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="740" y="188" as="sourcePoint" />
+            <mxPoint x="660" y="610" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="pXKIjf9BlQTj5GgiYZoW-2" value="删除" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;labelBackgroundColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="590" y="158" width="80" height="60" as="geometry" />
         </mxCell>
@@ -95,7 +101,7 @@
           <mxGeometry x="460" y="388" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="pXKIjf9BlQTj5GgiYZoW-8" value="删除成功" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="660" y="398" width="120" height="40" as="geometry" />
+          <mxGeometry x="630" y="388" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="pXKIjf9BlQTj5GgiYZoW-9" value="修改图书信息" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="320" y="280" width="120" height="40" as="geometry" />
