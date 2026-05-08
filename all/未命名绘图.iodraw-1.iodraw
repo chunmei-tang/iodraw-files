@@ -19,7 +19,7 @@
         <mxCell id="kHN5BrG-s1mCL4b4qQ4C-5" value="图书共享" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="440" y="80" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="kHN5BrG-s1mCL4b4qQ4C-6" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="kHN5BrG-s1mCL4b4qQ4C-6" value="在线留言" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="540" y="60" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
