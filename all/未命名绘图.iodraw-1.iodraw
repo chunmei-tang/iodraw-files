@@ -49,7 +49,7 @@
         <mxCell id="kHN5BrG-s1mCL4b4qQ4C-16" value="第1屏&lt;div&gt;核心内容区&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="670" y="130" width="100" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="kHN5BrG-s1mCL4b4qQ4C-17" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="kHN5BrG-s1mCL4b4qQ4C-17" value="第2屏内容" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="680" y="265" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
