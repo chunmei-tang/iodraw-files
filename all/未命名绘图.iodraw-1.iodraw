@@ -14,7 +14,7 @@
           <mxGeometry x="230" y="80" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="kHN5BrG-s1mCL4b4qQ4C-4" value="图书资源" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="330" y="60" width="80" height="60" as="geometry" />
+          <mxGeometry x="334" y="80" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="kHN5BrG-s1mCL4b4qQ4C-5" value="图书共享" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="610" y="60" width="120" height="60" as="geometry" />
