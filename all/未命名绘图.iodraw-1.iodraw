@@ -25,6 +25,9 @@
         <mxCell id="kHN5BrG-s1mCL4b4qQ4C-7" value="轮播图区域" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="70" y="180" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="kHN5BrG-s1mCL4b4qQ4C-8" value="系统介绍侧边栏" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="180" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
