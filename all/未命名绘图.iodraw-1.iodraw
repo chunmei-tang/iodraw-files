@@ -31,6 +31,9 @@
         <mxCell id="kHN5BrG-s1mCL4b4qQ4C-9" value="公告信息&lt;div&gt;导航菜单&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="70" y="300" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="kHN5BrG-s1mCL4b4qQ4C-10" value="公告内容区" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="300" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
