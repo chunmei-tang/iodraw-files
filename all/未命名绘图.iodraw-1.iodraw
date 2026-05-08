@@ -5,7 +5,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="kHN5BrG-s1mCL4b4qQ4C-1" value="网站首页" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="20" y="60" width="120" height="60" as="geometry" />
+          <mxGeometry x="20" y="60" width="80" height="60" as="geometry" />
         </mxCell>
         <mxCell id="kHN5BrG-s1mCL4b4qQ4C-2" value="介绍" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="180" y="60" width="120" height="60" as="geometry" />
@@ -16,7 +16,7 @@
         <mxCell id="kHN5BrG-s1mCL4b4qQ4C-4" value="图书资源" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="470" y="60" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="kHN5BrG-s1mCL4b4qQ4C-5" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="kHN5BrG-s1mCL4b4qQ4C-5" value="图书共享" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="610" y="60" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
