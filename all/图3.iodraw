@@ -14,7 +14,7 @@
           <mxGeometry x="390" y="190" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ZpolmtKQ6iPGpkpgaTiy-4" value="应用层" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;align=left;labelPosition=center;verticalLabelPosition=middle;verticalAlign=middle;labelBackgroundColor=none;fillStyle=solid;" parent="1" vertex="1">
-          <mxGeometry x="190" y="300" width="330" height="190" as="geometry" />
+          <mxGeometry x="190" y="300" width="312" height="169" as="geometry" />
         </mxCell>
         <mxCell id="ZpolmtKQ6iPGpkpgaTiy-6" value="用户中心" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillStyle=solid;" parent="1" vertex="1">
           <mxGeometry x="250" y="311" width="60" height="30" as="geometry" />
@@ -32,7 +32,7 @@
           <mxGeometry x="405" y="370" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ZpolmtKQ6iPGpkpgaTiy-13" value="后台管理" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;" parent="1" vertex="1">
-          <mxGeometry x="260" y="430" width="205" height="30" as="geometry" />
+          <mxGeometry x="245" y="411" width="205" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ZpolmtKQ6iPGpkpgaTiy-15" value="服务层" style="rounded=1;whiteSpace=wrap;html=1;fillStyle=solid;dashed=1;align=left;labelBackgroundColor=none;" parent="1" vertex="1">
           <mxGeometry x="190" y="585" width="360" height="285" as="geometry" />
