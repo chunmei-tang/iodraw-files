@@ -47,7 +47,7 @@
           <mxGeometry x="280" y="504" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ZpolmtKQ6iPGpkpgaTiy-19" value="评论服务" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;" parent="1" vertex="1">
-          <mxGeometry x="345" y="513" width="60" height="30" as="geometry" />
+          <mxGeometry x="348" y="513" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ZpolmtKQ6iPGpkpgaTiy-24" value="权限认证" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;" parent="1" vertex="1">
           <mxGeometry x="216" y="513" width="60" height="30" as="geometry" />
@@ -59,7 +59,7 @@
           <mxGeometry x="210" y="555" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ZpolmtKQ6iPGpkpgaTiy-29" value="公告服务" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="342" y="595" width="60" height="30" as="geometry" />
+          <mxGeometry x="350" y="555" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ZpolmtKQ6iPGpkpgaTiy-31" value="倒排索引&lt;div&gt;搜索引擎&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="222.5" y="820" width="280" height="30" as="geometry" />
