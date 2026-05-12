@@ -29,10 +29,10 @@
           <mxGeometry x="280" y="310" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ZpolmtKQ6iPGpkpgaTiy-10" value="内容展示" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;" parent="1" vertex="1">
-          <mxGeometry x="350" y="328" width="60" height="30" as="geometry" />
+          <mxGeometry x="350" y="318" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ZpolmtKQ6iPGpkpgaTiy-13" value="后台管理" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;" parent="1" vertex="1">
-          <mxGeometry x="217.5" y="364" width="205" height="30" as="geometry" />
+          <mxGeometry x="213" y="359" width="205" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ZpolmtKQ6iPGpkpgaTiy-15" value="服务层" style="rounded=1;whiteSpace=wrap;html=1;fillStyle=solid;dashed=1;align=left;labelBackgroundColor=none;" parent="1" vertex="1">
           <mxGeometry x="190" y="508" width="360" height="285" as="geometry" />
@@ -101,7 +101,7 @@
           <mxGeometry x="340" y="207" width="40" height="65" as="geometry" />
         </mxCell>
         <mxCell id="ZpolmtKQ6iPGpkpgaTiy-61" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.6;dx=40;direction=south;notch=0;rounded=1;" parent="1" vertex="1">
-          <mxGeometry x="312.5" y="423" width="45" height="80" as="geometry" />
+          <mxGeometry x="280" y="398" width="45" height="80" as="geometry" />
         </mxCell>
         <mxCell id="ZpolmtKQ6iPGpkpgaTiy-62" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.6;dx=40;direction=north;notch=0;rounded=1;" parent="1" vertex="1">
           <mxGeometry x="330" y="750" width="65" height="70" as="geometry" />
