@@ -8,7 +8,7 @@
           <mxGeometry x="170" y="164" width="330" height="70" as="geometry" />
         </mxCell>
         <mxCell id="ZpolmtKQ6iPGpkpgaTiy-2" value="浏览器" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillStyle=solid;" parent="1" vertex="1">
-          <mxGeometry x="250" y="190" width="60" height="30" as="geometry" />
+          <mxGeometry x="235" y="185" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ZpolmtKQ6iPGpkpgaTiy-3" value="移动终端" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillStyle=solid;" parent="1" vertex="1">
           <mxGeometry x="400" y="190" width="60" height="30" as="geometry" />
