@@ -38,19 +38,19 @@
           <mxGeometry x="144" y="471" width="337" height="170" as="geometry" />
         </mxCell>
         <mxCell id="ZpolmtKQ6iPGpkpgaTiy-16" value="用户服务" style="rounded=1;whiteSpace=wrap;html=1;fillStyle=solid;labelBackgroundColor=none;" parent="1" vertex="1">
-          <mxGeometry x="222.5" y="476" width="60" height="30" as="geometry" />
+          <mxGeometry x="213" y="476" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ZpolmtKQ6iPGpkpgaTiy-17" value="图书服务" style="rounded=1;whiteSpace=wrap;html=1;fillStyle=solid;labelBackgroundColor=none;" parent="1" vertex="1">
           <mxGeometry x="348" y="476" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ZpolmtKQ6iPGpkpgaTiy-18" value="文件服务" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;" parent="1" vertex="1">
-          <mxGeometry x="280" y="504" width="60" height="30" as="geometry" />
+          <mxGeometry x="277" y="496" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ZpolmtKQ6iPGpkpgaTiy-19" value="评论服务" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;" parent="1" vertex="1">
           <mxGeometry x="348" y="513" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ZpolmtKQ6iPGpkpgaTiy-24" value="权限认证" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;" parent="1" vertex="1">
-          <mxGeometry x="216" y="513" width="60" height="30" as="geometry" />
+          <mxGeometry x="210" y="513" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ZpolmtKQ6iPGpkpgaTiy-25" value="操作日志" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;" parent="1" vertex="1">
           <mxGeometry x="276" y="550" width="60" height="30" as="geometry" />
