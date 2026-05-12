@@ -14,7 +14,7 @@
           <mxGeometry x="390" y="190" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ZpolmtKQ6iPGpkpgaTiy-4" value="应用层" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;align=left;labelPosition=center;verticalLabelPosition=middle;verticalAlign=middle;labelBackgroundColor=none;fillStyle=solid;" parent="1" vertex="1">
-          <mxGeometry x="167" y="298" width="329" height="156" as="geometry" />
+          <mxGeometry x="167" y="298" width="330" height="125" as="geometry" />
         </mxCell>
         <mxCell id="ZpolmtKQ6iPGpkpgaTiy-6" value="用户中心" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillStyle=solid;" parent="1" vertex="1">
           <mxGeometry x="252" y="303" width="60" height="30" as="geometry" />
@@ -101,7 +101,7 @@
           <mxGeometry x="400" y="220" width="45" height="80" as="geometry" />
         </mxCell>
         <mxCell id="ZpolmtKQ6iPGpkpgaTiy-61" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.6;dx=40;direction=south;notch=0;rounded=1;" parent="1" vertex="1">
-          <mxGeometry x="315" y="490" width="70" height="90" as="geometry" />
+          <mxGeometry x="304" y="421" width="45" height="90" as="geometry" />
         </mxCell>
         <mxCell id="ZpolmtKQ6iPGpkpgaTiy-62" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.6;dx=40;direction=north;notch=0;rounded=1;" parent="1" vertex="1">
           <mxGeometry x="330" y="750" width="65" height="70" as="geometry" />
