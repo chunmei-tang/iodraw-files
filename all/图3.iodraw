@@ -5,10 +5,10 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="ZpolmtKQ6iPGpkpgaTiy-1" value="接入层" style="rounded=1;whiteSpace=wrap;html=1;labelPosition=center;verticalLabelPosition=middle;align=left;verticalAlign=middle;dashed=1;labelBackgroundColor=none;horizontal=1;fillStyle=solid;" parent="1" vertex="1">
-          <mxGeometry x="170" y="164" width="330" height="70" as="geometry" />
+          <mxGeometry x="170" y="164" width="292" height="54" as="geometry" />
         </mxCell>
         <mxCell id="ZpolmtKQ6iPGpkpgaTiy-2" value="&lt;b&gt;浏览器&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillStyle=solid;" parent="1" vertex="1">
-          <mxGeometry x="235" y="185" width="60" height="30" as="geometry" />
+          <mxGeometry x="222.5" y="176" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ZpolmtKQ6iPGpkpgaTiy-3" value="&lt;b&gt;移动终端&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillStyle=solid;" parent="1" vertex="1">
           <mxGeometry x="390" y="180" width="60" height="30" as="geometry" />
@@ -108,9 +108,6 @@
         </mxCell>
         <mxCell id="ZpolmtKQ6iPGpkpgaTiy-76" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.6;dx=40;direction=south;notch=0;rounded=1;" parent="1" vertex="1">
           <mxGeometry x="325" y="870" width="70" height="70" as="geometry" />
-        </mxCell>
-        <mxCell id="cjh6Dq6GQL7cZ4hmuoS1-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="ZpolmtKQ6iPGpkpgaTiy-2" target="ZpolmtKQ6iPGpkpgaTiy-2">
-          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
