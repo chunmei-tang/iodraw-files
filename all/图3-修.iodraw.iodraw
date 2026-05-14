@@ -80,7 +80,7 @@
           <mxGeometry x="206" y="785" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ZpolmtKQ6iPGpkpgaTiy-44" value="系统安全、运行监控、日志管理" style="rounded=0;whiteSpace=wrap;html=1;direction=south;align=center;textDirection=vertical-lr;" parent="1" vertex="1">
-          <mxGeometry x="53" y="170" width="37" height="613" as="geometry" />
+          <mxGeometry x="53" y="155" width="37" height="628" as="geometry" />
         </mxCell>
         <mxCell id="ZpolmtKQ6iPGpkpgaTiy-46" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.6;dx=40;notch=0;rounded=1;" parent="1" vertex="1">
           <mxGeometry x="90" y="170" width="65" height="40" as="geometry" />
