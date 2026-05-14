@@ -71,7 +71,7 @@
           <mxGeometry x="210" y="722" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ZpolmtKQ6iPGpkpgaTiy-34" value="Lucene索引库" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="343" y="718" width="60" height="30" as="geometry" />
+          <mxGeometry x="350" y="722" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ZpolmtKQ6iPGpkpgaTiy-35" value="文件存储服务器" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="350" y="795" width="60" height="30" as="geometry" />
