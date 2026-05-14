@@ -65,7 +65,7 @@
           <mxGeometry x="165" y="620" width="280" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ZpolmtKQ6iPGpkpgaTiy-32" value="资源层" style="rounded=1;whiteSpace=wrap;html=1;align=left;dashed=1;" parent="1" vertex="1">
-          <mxGeometry x="155" y="710" width="322" height="127" as="geometry" />
+          <mxGeometry x="155" y="710" width="335" height="127" as="geometry" />
         </mxCell>
         <mxCell id="ZpolmtKQ6iPGpkpgaTiy-33" value="MySQL数据库" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="206" y="723" width="60" height="30" as="geometry" />
