@@ -65,7 +65,7 @@
           <mxGeometry x="165" y="620" width="280" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ZpolmtKQ6iPGpkpgaTiy-32" value="资源层" style="rounded=1;whiteSpace=wrap;html=1;align=left;dashed=1;" parent="1" vertex="1">
-          <mxGeometry x="156" y="718" width="322" height="127" as="geometry" />
+          <mxGeometry x="149" y="709" width="322" height="127" as="geometry" />
         </mxCell>
         <mxCell id="ZpolmtKQ6iPGpkpgaTiy-33" value="MySQL数据库" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="210" y="730" width="60" height="30" as="geometry" />
@@ -81,9 +81,6 @@
         </mxCell>
         <mxCell id="ZpolmtKQ6iPGpkpgaTiy-44" value="系统安全、运行监控、日志管理" style="rounded=0;whiteSpace=wrap;html=1;direction=south;align=center;textDirection=vertical-lr;" parent="1" vertex="1">
           <mxGeometry x="53" y="158" width="37" height="642" as="geometry" />
-        </mxCell>
-        <mxCell id="ZpolmtKQ6iPGpkpgaTiy-76" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.6;dx=40;direction=south;notch=0;rounded=1;" parent="1" vertex="1">
-          <mxGeometry x="287" y="655" width="40" height="65" as="geometry" />
         </mxCell>
         <mxCell id="cjh6Dq6GQL7cZ4hmuoS1-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="ZpolmtKQ6iPGpkpgaTiy-7" target="ZpolmtKQ6iPGpkpgaTiy-7" edge="1">
           <mxGeometry relative="1" as="geometry" />
