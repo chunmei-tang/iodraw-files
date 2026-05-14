@@ -68,16 +68,16 @@
           <mxGeometry x="155" y="710" width="335" height="127" as="geometry" />
         </mxCell>
         <mxCell id="ZpolmtKQ6iPGpkpgaTiy-33" value="MySQL数据库" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="206" y="723" width="60" height="30" as="geometry" />
+          <mxGeometry x="210" y="722" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ZpolmtKQ6iPGpkpgaTiy-34" value="Lucene索引库" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="344" y="727" width="60" height="30" as="geometry" />
+          <mxGeometry x="350" y="726" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ZpolmtKQ6iPGpkpgaTiy-35" value="文件存储服务器" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="344" y="795" width="60" height="30" as="geometry" />
+          <mxGeometry x="350" y="795" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ZpolmtKQ6iPGpkpgaTiy-36" value="应用服务器" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="204" y="795" width="60" height="30" as="geometry" />
+          <mxGeometry x="211" y="795" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ZpolmtKQ6iPGpkpgaTiy-44" value="系统安全、运行监控、日志管理" style="rounded=0;whiteSpace=wrap;html=1;direction=south;align=center;textDirection=vertical-lr;" parent="1" vertex="1">
           <mxGeometry x="53" y="158" width="37" height="642" as="geometry" />
