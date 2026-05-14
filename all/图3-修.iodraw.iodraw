@@ -11,7 +11,7 @@
           <mxGeometry x="210" y="180" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ZpolmtKQ6iPGpkpgaTiy-3" value="移动终端" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillStyle=solid;" parent="1" vertex="1">
-          <mxGeometry x="327" y="177" width="60" height="30" as="geometry" />
+          <mxGeometry x="325" y="180" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ZpolmtKQ6iPGpkpgaTiy-4" value="应用层" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;align=left;labelPosition=center;verticalLabelPosition=middle;verticalAlign=middle;labelBackgroundColor=none;fillStyle=solid;" parent="1" vertex="1">
           <mxGeometry x="157" y="275" width="328" height="132" as="geometry" />
@@ -112,7 +112,7 @@
             <mxPoint x="235" y="274" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="qe0f0mQT8fN1hh_35nso-3" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="qe0f0mQT8fN1hh_35nso-3" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="ZpolmtKQ6iPGpkpgaTiy-4">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="239.5" y="210" as="sourcePoint" />
             <mxPoint x="242" y="271" as="targetPoint" />
