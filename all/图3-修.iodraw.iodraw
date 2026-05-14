@@ -38,7 +38,7 @@
           <mxGeometry x="159" y="471" width="322" height="184" as="geometry" />
         </mxCell>
         <mxCell id="ZpolmtKQ6iPGpkpgaTiy-16" value="用户服务" style="rounded=1;whiteSpace=wrap;html=1;fillStyle=solid;labelBackgroundColor=none;" parent="1" vertex="1">
-          <mxGeometry x="213" y="476" width="60" height="30" as="geometry" />
+          <mxGeometry x="211" y="476" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ZpolmtKQ6iPGpkpgaTiy-17" value="图书服务" style="rounded=1;whiteSpace=wrap;html=1;fillStyle=solid;labelBackgroundColor=none;" parent="1" vertex="1">
           <mxGeometry x="348" y="476" width="60" height="30" as="geometry" />
@@ -74,7 +74,7 @@
           <mxGeometry x="344" y="727" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ZpolmtKQ6iPGpkpgaTiy-35" value="文件存储服务器" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="309" y="783" width="60" height="30" as="geometry" />
+          <mxGeometry x="344" y="795" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ZpolmtKQ6iPGpkpgaTiy-36" value="应用服务器" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="204" y="795" width="60" height="30" as="geometry" />
