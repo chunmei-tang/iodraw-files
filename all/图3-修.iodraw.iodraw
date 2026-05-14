@@ -82,9 +82,6 @@
         <mxCell id="ZpolmtKQ6iPGpkpgaTiy-44" value="系统安全、运行监控、日志管理" style="rounded=0;whiteSpace=wrap;html=1;direction=south;align=center;textDirection=vertical-lr;" parent="1" vertex="1">
           <mxGeometry x="53" y="158" width="37" height="642" as="geometry" />
         </mxCell>
-        <mxCell id="ZpolmtKQ6iPGpkpgaTiy-61" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.6;dx=40;direction=south;notch=0;rounded=1;" parent="1" vertex="1">
-          <mxGeometry x="287" y="407" width="40" height="62" as="geometry" />
-        </mxCell>
         <mxCell id="ZpolmtKQ6iPGpkpgaTiy-62" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.6;dx=40;direction=north;notch=0;rounded=1;" parent="1" vertex="1">
           <mxGeometry x="285" y="552" width="40" height="65" as="geometry" />
         </mxCell>
@@ -110,6 +107,12 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="353" y="218" as="sourcePoint" />
             <mxPoint x="352.5" y="283" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qe0f0mQT8fN1hh_35nso-6" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="601" y="390" as="sourcePoint" />
+            <mxPoint x="600.5" y="455" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
