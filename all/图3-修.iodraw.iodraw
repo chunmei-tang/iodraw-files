@@ -13,9 +13,6 @@
         <mxCell id="ZpolmtKQ6iPGpkpgaTiy-3" value="移动终端" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillStyle=solid;" parent="1" vertex="1">
           <mxGeometry x="323" y="188" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="qe0f0mQT8fN1hh_35nso-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ZpolmtKQ6iPGpkpgaTiy-4" target="ZpolmtKQ6iPGpkpgaTiy-44">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="ZpolmtKQ6iPGpkpgaTiy-4" value="应用层" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;align=left;labelPosition=center;verticalLabelPosition=middle;verticalAlign=middle;labelBackgroundColor=none;fillStyle=solid;" parent="1" vertex="1">
           <mxGeometry x="155" y="285" width="328" height="132" as="geometry" />
         </mxCell>
@@ -127,7 +124,7 @@
         <mxCell id="qe0f0mQT8fN1hh_35nso-9" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="90" y="342.5" as="sourcePoint" />
-            <mxPoint x="154" y="343" as="targetPoint" />
+            <mxPoint x="156" y="340" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
