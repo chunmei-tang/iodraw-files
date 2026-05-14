@@ -62,7 +62,7 @@
           <mxGeometry x="350" y="555" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ZpolmtKQ6iPGpkpgaTiy-31" value="倒排索引&lt;div&gt;搜索引擎&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="165" y="620" width="280" height="30" as="geometry" />
+          <mxGeometry x="173" y="619" width="292" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ZpolmtKQ6iPGpkpgaTiy-32" value="资源层" style="rounded=1;whiteSpace=wrap;html=1;align=left;dashed=1;" parent="1" vertex="1">
           <mxGeometry x="155" y="710" width="335" height="127" as="geometry" />
