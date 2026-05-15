@@ -11,10 +11,10 @@
           <mxGeometry x="20" y="85" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="I_FHQpFwlQbQRbhScGEW-3" value="" style="swimlane;startSize=0;" vertex="1" parent="1">
-          <mxGeometry x="550" y="110" width="130" height="200" as="geometry" />
+          <mxGeometry x="550" y="120" width="130" height="200" as="geometry" />
         </mxCell>
-        <mxCell id="I_FHQpFwlQbQRbhScGEW-4" value="Spring Web MVC" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="570" y="188" width="120" height="30" as="geometry" />
+        <mxCell id="I_FHQpFwlQbQRbhScGEW-4" value="Spring Web MVC" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="I_FHQpFwlQbQRbhScGEW-3">
+          <mxGeometry x="5" y="78" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="I_FHQpFwlQbQRbhScGEW-5" value="Spring ORM" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="260" y="120" width="120" height="60" as="geometry" />
