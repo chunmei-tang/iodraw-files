@@ -13,8 +13,8 @@
         <mxCell id="I_FHQpFwlQbQRbhScGEW-3" value="" style="swimlane;startSize=0;" vertex="1" parent="1">
           <mxGeometry x="480" y="120" width="130" height="200" as="geometry" />
         </mxCell>
-        <mxCell id="I_FHQpFwlQbQRbhScGEW-4" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="525" y="198" width="50" height="30" as="geometry" />
+        <mxCell id="I_FHQpFwlQbQRbhScGEW-4" value="Spring Web MVC" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="490" y="198" width="120" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
