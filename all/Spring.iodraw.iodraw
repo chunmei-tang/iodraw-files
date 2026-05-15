@@ -46,17 +46,13 @@
         <mxCell id="I_FHQpFwlQbQRbhScGEW-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="I_FHQpFwlQbQRbhScGEW-17">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="590" y="360" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="590" y="260" />
-              <mxPoint x="591" y="260" />
-            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="I_FHQpFwlQbQRbhScGEW-17" value="Controller" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="530" y="140" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="I_FHQpFwlQbQRbhScGEW-18" value="ModelAndView" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="400" y="240" width="120" height="40" as="geometry" />
+          <mxGeometry x="390" y="240" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="I_FHQpFwlQbQRbhScGEW-19" value="xxxService" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="530" y="360" width="120" height="40" as="geometry" />
