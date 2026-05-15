@@ -8,7 +8,7 @@
           <mxGeometry x="100" y="120" width="130" height="200" as="geometry" />
         </mxCell>
         <mxCell id="I_FHQpFwlQbQRbhScGEW-2" value="Spring AOP" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="I_FHQpFwlQbQRbhScGEW-1">
-          <mxGeometry x="20" y="58" width="90" height="30" as="geometry" />
+          <mxGeometry x="20" y="85" width="90" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
