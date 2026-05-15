@@ -13,7 +13,7 @@
         <mxCell id="I_FHQpFwlQbQRbhScGEW-11" value="&amp;lt;servlet-name&amp;gt;servlet.xml" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="230" y="30" width="170" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="I_FHQpFwlQbQRbhScGEW-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="I_FHQpFwlQbQRbhScGEW-12" target="I_FHQpFwlQbQRbhScGEW-11">
+        <mxCell id="I_FHQpFwlQbQRbhScGEW-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;dashed=1;" edge="1" parent="1" source="I_FHQpFwlQbQRbhScGEW-12" target="I_FHQpFwlQbQRbhScGEW-11">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="I_FHQpFwlQbQRbhScGEW-12" value="DispatcherServlete" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
