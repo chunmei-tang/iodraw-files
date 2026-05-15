@@ -28,11 +28,14 @@
         <mxCell id="I_FHQpFwlQbQRbhScGEW-13" value="ViewResolver" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="120" y="300" width="120" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="I_FHQpFwlQbQRbhScGEW-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="I_FHQpFwlQbQRbhScGEW-14" target="I_FHQpFwlQbQRbhScGEW-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="I_FHQpFwlQbQRbhScGEW-14" value="Model" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="270" y="350" width="120" height="40" as="geometry" />
+          <mxGeometry x="270" y="310" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="I_FHQpFwlQbQRbhScGEW-15" value="View(JSP)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="270" y="450" width="120" height="40" as="geometry" />
+          <mxGeometry x="270" y="410" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="I_FHQpFwlQbQRbhScGEW-16" value="HandlerMapping" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="450" y="30" width="120" height="40" as="geometry" />
