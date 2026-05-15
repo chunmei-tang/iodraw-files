@@ -10,8 +10,8 @@
         <mxCell id="I_FHQpFwlQbQRbhScGEW-11" value="&amp;lt;servlet-name&amp;gt;servlet.xml" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="230" y="30" width="170" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="I_FHQpFwlQbQRbhScGEW-12" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="230" y="110" width="120" height="40" as="geometry" />
+        <mxCell id="I_FHQpFwlQbQRbhScGEW-12" value="DispatcherServlete" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="230" y="110" width="170" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
