@@ -105,8 +105,8 @@
         <mxCell id="I_FHQpFwlQbQRbhScGEW-41" value="7.将模型数据传给View显示" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="320" y="310" width="170" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="I_FHQpFwlQbQRbhScGEW-42" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="85" y="428" width="50" height="30" as="geometry" />
+        <mxCell id="I_FHQpFwlQbQRbhScGEW-42" value="8.Http响应" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="70" y="428" width="80" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
