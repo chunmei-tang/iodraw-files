@@ -25,6 +25,9 @@
         <mxCell id="I_FHQpFwlQbQRbhScGEW-7" value="Sping Dao" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="260" y="240" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="I_FHQpFwlQbQRbhScGEW-8" value="Spring Context" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="240" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
