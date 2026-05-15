@@ -29,7 +29,7 @@
           <mxGeometry x="270" y="320" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="I_FHQpFwlQbQRbhScGEW-16" value="HandlerMapping" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="490" y="20" width="120" height="40" as="geometry" />
+          <mxGeometry x="450" y="30" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="I_FHQpFwlQbQRbhScGEW-17" value="Controller" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="470" y="100" width="120" height="40" as="geometry" />
@@ -40,7 +40,7 @@
         <mxCell id="I_FHQpFwlQbQRbhScGEW-19" value="xxxService" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="570" y="310" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="I_FHQpFwlQbQRbhScGEW-24" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="I_FHQpFwlQbQRbhScGEW-24" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="I_FHQpFwlQbQRbhScGEW-16">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="360" y="140" as="sourcePoint" />
             <mxPoint x="410" y="90" as="targetPoint" />
