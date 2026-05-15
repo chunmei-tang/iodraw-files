@@ -4,33 +4,6 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="I_FHQpFwlQbQRbhScGEW-1" value="" style="swimlane;startSize=0;" vertex="1" parent="1">
-          <mxGeometry x="100" y="120" width="130" height="200" as="geometry" />
-        </mxCell>
-        <mxCell id="I_FHQpFwlQbQRbhScGEW-2" value="Spring AOP" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="I_FHQpFwlQbQRbhScGEW-1">
-          <mxGeometry x="20" y="85" width="90" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="I_FHQpFwlQbQRbhScGEW-3" value="" style="swimlane;startSize=0;" vertex="1" parent="1">
-          <mxGeometry x="550" y="120" width="130" height="200" as="geometry" />
-        </mxCell>
-        <mxCell id="I_FHQpFwlQbQRbhScGEW-4" value="Spring Web MVC" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="I_FHQpFwlQbQRbhScGEW-3">
-          <mxGeometry x="5" y="78" width="120" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="I_FHQpFwlQbQRbhScGEW-5" value="Spring ORM" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="260" y="120" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="I_FHQpFwlQbQRbhScGEW-6" value="Spring Web" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="400" y="120" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="I_FHQpFwlQbQRbhScGEW-7" value="Sping Dao" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="260" y="240" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="I_FHQpFwlQbQRbhScGEW-8" value="Spring Context" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="400" y="240" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="I_FHQpFwlQbQRbhScGEW-9" value="Spring Core" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="100" y="350" width="580" height="60" as="geometry" />
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
