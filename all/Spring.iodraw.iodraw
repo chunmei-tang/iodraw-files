@@ -51,6 +51,9 @@
         <mxCell id="I_FHQpFwlQbQRbhScGEW-17" value="Controller" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="530" y="140" width="120" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="I_FHQpFwlQbQRbhScGEW-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.75;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="I_FHQpFwlQbQRbhScGEW-18" target="I_FHQpFwlQbQRbhScGEW-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="I_FHQpFwlQbQRbhScGEW-18" value="ModelAndView" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="390" y="240" width="120" height="40" as="geometry" />
         </mxCell>
@@ -72,7 +75,7 @@
         <mxCell id="I_FHQpFwlQbQRbhScGEW-32" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="510" y="260" as="sourcePoint" />
-            <mxPoint x="560" y="210" as="targetPoint" />
+            <mxPoint x="590" y="260" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
