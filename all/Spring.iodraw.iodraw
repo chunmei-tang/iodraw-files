@@ -16,6 +16,9 @@
         <mxCell id="I_FHQpFwlQbQRbhScGEW-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;dashed=1;" edge="1" parent="1" source="I_FHQpFwlQbQRbhScGEW-12" target="I_FHQpFwlQbQRbhScGEW-11">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="I_FHQpFwlQbQRbhScGEW-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="I_FHQpFwlQbQRbhScGEW-12" target="I_FHQpFwlQbQRbhScGEW-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="I_FHQpFwlQbQRbhScGEW-12" value="DispatcherServlete" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="230" y="140" width="170" height="40" as="geometry" />
         </mxCell>
@@ -29,7 +32,7 @@
           <mxGeometry x="270" y="320" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="I_FHQpFwlQbQRbhScGEW-16" value="HandlerMapping" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="470" y="20" width="120" height="40" as="geometry" />
+          <mxGeometry x="490" y="20" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="I_FHQpFwlQbQRbhScGEW-17" value="Controller" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="470" y="100" width="120" height="40" as="geometry" />
