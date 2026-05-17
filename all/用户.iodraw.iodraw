@@ -217,7 +217,7 @@
         <mxCell id="NzQzkj8mXZ4Nei_FzqMS-70" value="查询用户" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="390" y="200" width="90" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="NzQzkj8mXZ4Nei_FzqMS-71" value="Use Case" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="NzQzkj8mXZ4Nei_FzqMS-71" value="新增用户" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="460" y="240" width="140" height="70" as="geometry" />
         </mxCell>
       </root>
