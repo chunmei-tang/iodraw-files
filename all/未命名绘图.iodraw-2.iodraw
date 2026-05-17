@@ -167,10 +167,10 @@
           <mxGeometry x="540" y="780" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="NzQzkj8mXZ4Nei_FzqMS-52" value="按作者查找" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="550" y="890" width="140" height="70" as="geometry" />
+          <mxGeometry x="540" y="840" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="NzQzkj8mXZ4Nei_FzqMS-53" value="按关键词查找" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="520" y="1000" width="140" height="70" as="geometry" />
+          <mxGeometry x="530" y="900" width="140" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
