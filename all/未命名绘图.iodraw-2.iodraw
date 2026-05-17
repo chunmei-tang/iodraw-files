@@ -128,7 +128,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="NzQzkj8mXZ4Nei_FzqMS-43" value="查找资源" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="440" y="820" width="80" height="40" as="geometry" />
+          <mxGeometry x="430" y="790" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="NzQzkj8mXZ4Nei_FzqMS-44" value="查看详情" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="220" y="890" width="80" height="40" as="geometry" />
@@ -164,13 +164,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="NzQzkj8mXZ4Nei_FzqMS-51" value="按名称查找" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="540" y="780" width="80" height="40" as="geometry" />
+          <mxGeometry x="610" y="740" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="NzQzkj8mXZ4Nei_FzqMS-52" value="按作者查找" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="540" y="840" width="80" height="40" as="geometry" />
+          <mxGeometry x="580" y="820" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="NzQzkj8mXZ4Nei_FzqMS-53" value="按关键词查找" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="530" y="900" width="80" height="70" as="geometry" />
+          <mxGeometry x="530" y="900" width="80" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
