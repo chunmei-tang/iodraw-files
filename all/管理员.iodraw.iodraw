@@ -105,7 +105,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="NzQzkj8mXZ4Nei_FzqMS-43" value="资源分类" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="430" y="690" width="80" height="40" as="geometry" />
+          <mxGeometry x="330" y="780" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="NzQzkj8mXZ4Nei_FzqMS-44" value="查看详情" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="120" y="770" width="80" height="40" as="geometry" />
@@ -128,7 +128,7 @@
             <mxPoint x="660" y="480" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="NzQzkj8mXZ4Nei_FzqMS-58" value="《extend》" style="endArrow=classicThin;endFill=1;html=1;rounded=0;dashed=1;exitX=0;exitY=0.25;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="NzQzkj8mXZ4Nei_FzqMS-43" edge="1">
+        <mxCell id="NzQzkj8mXZ4Nei_FzqMS-58" value="《extend》" style="endArrow=classicThin;endFill=1;html=1;rounded=0;dashed=1;exitX=0.25;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.638;entryY=0.992;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="NzQzkj8mXZ4Nei_FzqMS-43" edge="1" target="NzQzkj8mXZ4Nei_FzqMS-31">
           <mxGeometry width="160" relative="1" as="geometry">
             <mxPoint x="500" y="740" as="sourcePoint" />
             <mxPoint x="348" y="670" as="targetPoint" />
