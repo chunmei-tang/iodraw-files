@@ -4,9 +4,9 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="NzQzkj8mXZ4Nei_FzqMS-9" value="《include》" style="endArrow=classicThin;endFill=1;html=1;rounded=0;dashed=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="NzQzkj8mXZ4Nei_FzqMS-17">
+        <mxCell id="NzQzkj8mXZ4Nei_FzqMS-9" value="《include》" style="endArrow=classicThin;endFill=1;html=1;rounded=0;dashed=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1">
           <mxGeometry width="160" relative="1" as="geometry">
-            <mxPoint x="458" y="447" as="sourcePoint" />
+            <mxPoint x="440" y="460" as="sourcePoint" />
             <mxPoint x="570" y="390" as="targetPoint" />
           </mxGeometry>
         </mxCell>
@@ -28,9 +28,6 @@
             <mxPoint x="210" y="550" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="NzQzkj8mXZ4Nei_FzqMS-17" value="管理个人信息" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="360" y="440" width="80" height="40" as="geometry" />
-        </mxCell>
         <mxCell id="NzQzkj8mXZ4Nei_FzqMS-18" value="查看个人信息" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="570" y="370" width="80" height="40" as="geometry" />
         </mxCell>
@@ -48,12 +45,6 @@
         </mxCell>
         <mxCell id="NzQzkj8mXZ4Nei_FzqMS-23" value="修改密码" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="720" y="530" width="80" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="NzQzkj8mXZ4Nei_FzqMS-25" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.046;entryY=0.708;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="NzQzkj8mXZ4Nei_FzqMS-17">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="130" y="600" as="sourcePoint" />
-            <mxPoint x="320" y="550" as="targetPoint" />
-          </mxGeometry>
         </mxCell>
         <mxCell id="NzQzkj8mXZ4Nei_FzqMS-26" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="NzQzkj8mXZ4Nei_FzqMS-29">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -91,9 +82,9 @@
         <mxCell id="NzQzkj8mXZ4Nei_FzqMS-33" value="留言数据统计" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="350" y="710" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="NzQzkj8mXZ4Nei_FzqMS-35" value="《include》" style="endArrow=classicThin;endFill=1;html=1;rounded=0;dashed=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="NzQzkj8mXZ4Nei_FzqMS-17" target="NzQzkj8mXZ4Nei_FzqMS-19">
+        <mxCell id="NzQzkj8mXZ4Nei_FzqMS-35" value="《include》" style="endArrow=classicThin;endFill=1;html=1;rounded=0;dashed=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="NzQzkj8mXZ4Nei_FzqMS-19">
           <mxGeometry width="160" relative="1" as="geometry">
-            <mxPoint x="450" y="490" as="sourcePoint" />
+            <mxPoint x="440" y="460" as="sourcePoint" />
             <mxPoint x="580" y="420" as="targetPoint" />
           </mxGeometry>
         </mxCell>
@@ -246,7 +237,7 @@
         <mxCell id="NzQzkj8mXZ4Nei_FzqMS-78" value="资源审核" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="180" y="910" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="NzQzkj8mXZ4Nei_FzqMS-79" value="《include》" style="endArrow=classicThin;endFill=1;html=1;rounded=0;dashed=1;entryX=0.654;entryY=0.092;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="NzQzkj8mXZ4Nei_FzqMS-78">
+        <mxCell id="NzQzkj8mXZ4Nei_FzqMS-79" value="《include》" style="endArrow=classicThin;endFill=1;html=1;rounded=0;dashed=1;" edge="1" parent="1">
           <mxGeometry width="160" relative="1" as="geometry">
             <mxPoint x="320" y="830" as="sourcePoint" />
             <mxPoint x="240" y="910" as="targetPoint" />
