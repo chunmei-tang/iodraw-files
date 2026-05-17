@@ -94,7 +94,7 @@
         <mxCell id="NzQzkj8mXZ4Nei_FzqMS-33" value="资源上传" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="350" y="670" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="NzQzkj8mXZ4Nei_FzqMS-35" value="《include》" style="endArrow=classicThin;endFill=1;html=1;rounded=0;dashed=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1">
+        <mxCell id="NzQzkj8mXZ4Nei_FzqMS-35" value="《include》" style="endArrow=classicThin;endFill=1;html=1;rounded=0;dashed=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="NzQzkj8mXZ4Nei_FzqMS-17" target="NzQzkj8mXZ4Nei_FzqMS-19">
           <mxGeometry width="160" relative="1" as="geometry">
             <mxPoint x="450" y="490" as="sourcePoint" />
             <mxPoint x="580" y="420" as="targetPoint" />
