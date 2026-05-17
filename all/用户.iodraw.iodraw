@@ -110,7 +110,7 @@
           <mxGeometry x="580" y="615" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="NzQzkj8mXZ4Nei_FzqMS-39" value="回复内容" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="580" y="690" width="80" height="40" as="geometry" />
+          <mxGeometry x="580" y="680" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="NzQzkj8mXZ4Nei_FzqMS-41" value="《include》" style="endArrow=classicThin;endFill=1;html=1;rounded=0;dashed=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="NzQzkj8mXZ4Nei_FzqMS-29" target="NzQzkj8mXZ4Nei_FzqMS-38">
           <mxGeometry width="160" relative="1" as="geometry">
@@ -242,6 +242,9 @@
             <mxPoint x="490" y="260" as="sourcePoint" />
             <mxPoint x="400" y="270" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="NzQzkj8mXZ4Nei_FzqMS-78" value="Use Case" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="90" y="840" width="140" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
