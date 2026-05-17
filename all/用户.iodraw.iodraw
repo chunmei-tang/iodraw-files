@@ -223,8 +223,11 @@
         <mxCell id="NzQzkj8mXZ4Nei_FzqMS-72" value="删除用户" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="440" y="280" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="NzQzkj8mXZ4Nei_FzqMS-73" value="用户是学习资源共享平台主要服务对象和使用者，该系统中用户需求围绕资源和共享展开。&#xa;1.&#x9;注册登录：第一次访问该系统页面的用户需要注册账户。已进行注册的用户可通过账号+密码形式登录系统。&#xa;2.&#x9;管理个人信息：用户登录系统，可以选择查看个人信息，进行个人信息完善和修改。&#xa;3.&#x9;公告信息：用户可查看公告信息。&#xa;4.&#x9;留言：用户可以在相应资源下留下个人评论，和其他用户或管理员进行互动。&#xa;5.&#x9;资源上传：用户有自己想要上传的资源或发现系统不存在的资源时，可以选择上传资源。&#xa;资源检索：在线资源共享平台最核心的功能，用户可以按名称、作者、关键字等多条件组合查询想要的资源其用例图" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="190" y="210" width="560" height="150" as="geometry" />
+        <mxCell id="NzQzkj8mXZ4Nei_FzqMS-74" value="《include》" style="endArrow=classicThin;endFill=1;html=1;rounded=0;dashed=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="300" y="200" as="sourcePoint" />
+            <mxPoint x="430" y="130" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
