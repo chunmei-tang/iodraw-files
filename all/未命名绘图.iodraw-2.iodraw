@@ -6,8 +6,8 @@
         <mxCell id="1" parent="0" />
         <mxCell id="NzQzkj8mXZ4Nei_FzqMS-9" value="《include》" style="endArrow=classicThin;endFill=1;html=1;rounded=0;exitX=0.963;exitY=0.158;exitDx=0;exitDy=0;exitPerimeter=0;dashed=1;" edge="1" parent="1">
           <mxGeometry width="160" relative="1" as="geometry">
-            <mxPoint x="399.99999999999994" y="536.32" as="sourcePoint" />
-            <mxPoint x="490" y="480" as="targetPoint" />
+            <mxPoint x="479.99999999999994" y="446.32000000000005" as="sourcePoint" />
+            <mxPoint x="570" y="390" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="NzQzkj8mXZ4Nei_FzqMS-10" value="用户" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="1">
@@ -17,7 +17,7 @@
           <mxGeometry x="250" y="340" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="NzQzkj8mXZ4Nei_FzqMS-13" value="用户登录" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="310" y="450" width="80" height="40" as="geometry" />
+          <mxGeometry x="340" y="370" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="NzQzkj8mXZ4Nei_FzqMS-15" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1" target="NzQzkj8mXZ4Nei_FzqMS-12">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -32,10 +32,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="NzQzkj8mXZ4Nei_FzqMS-17" value="管理个人信息" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="320" y="520" width="80" height="40" as="geometry" />
+          <mxGeometry x="380" y="440" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="NzQzkj8mXZ4Nei_FzqMS-18" value="查看个人信息" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="490" y="460" width="80" height="40" as="geometry" />
+          <mxGeometry x="570" y="370" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="NzQzkj8mXZ4Nei_FzqMS-19" value="修改个人信息" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="490" y="540" width="80" height="40" as="geometry" />
