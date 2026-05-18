@@ -11,7 +11,7 @@
           <mxGeometry x="170" y="170" width="60" height="60" as="geometry" />
         </mxCell>
         <mxCell id="QazVs1psLP-u34jl4kNq-3" value="轮播图" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="90" y="360" width="80" height="40" as="geometry" />
+          <mxGeometry x="45" y="350" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="QazVs1psLP-u34jl4kNq-4" value="收藏" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="610" y="360" width="80" height="40" as="geometry" />
@@ -66,6 +66,12 @@
         </mxCell>
         <mxCell id="QazVs1psLP-u34jl4kNq-28" value="N" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="125" y="218" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="QazVs1psLP-u34jl4kNq-29" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" target="QazVs1psLP-u34jl4kNq-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="190" y="300" as="sourcePoint" />
+            <mxPoint x="240" y="250" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
