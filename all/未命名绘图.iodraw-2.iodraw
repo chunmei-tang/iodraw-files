@@ -11,7 +11,7 @@
           <mxGeometry x="170" y="150" width="60" height="60" as="geometry" />
         </mxCell>
         <mxCell id="QazVs1psLP-u34jl4kNq-3" value="轮播图" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="45" y="130" width="80" height="40" as="geometry" />
+          <mxGeometry x="30" y="200" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="QazVs1psLP-u34jl4kNq-4" value="收藏" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="610" y="360" width="80" height="40" as="geometry" />
@@ -26,7 +26,7 @@
           <mxGeometry x="200" y="360" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="QazVs1psLP-u34jl4kNq-15" value="信息介绍" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="10" y="248" width="80" height="40" as="geometry" />
+          <mxGeometry x="30" y="360" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="QazVs1psLP-u34jl4kNq-16" value="资源信息" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="650" y="240" width="80" height="40" as="geometry" />
