@@ -67,6 +67,9 @@
             <mxPoint x="150" y="130" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="QazVs1psLP-u34jl4kNq-50" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="QazVs1psLP-u34jl4kNq-37" target="QazVs1psLP-u34jl4kNq-38">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="QazVs1psLP-u34jl4kNq-37" value="1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="245" y="148" width="30" height="30" as="geometry" />
         </mxCell>
