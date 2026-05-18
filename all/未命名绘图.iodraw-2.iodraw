@@ -41,7 +41,7 @@
           <mxGeometry x="215" y="260" width="60" height="60" as="geometry" />
         </mxCell>
         <mxCell id="QazVs1psLP-u34jl4kNq-22" value="拥有" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="490" y="280" width="60" height="60" as="geometry" />
+          <mxGeometry x="500" y="260" width="60" height="60" as="geometry" />
         </mxCell>
         <mxCell id="QazVs1psLP-u34jl4kNq-23" value="发布" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="290" y="270" width="60" height="60" as="geometry" />
