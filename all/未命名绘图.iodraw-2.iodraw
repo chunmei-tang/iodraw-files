@@ -13,8 +13,11 @@
         <mxCell id="QazVs1psLP-u34jl4kNq-3" value="轮播图" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="334" y="360" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="QazVs1psLP-u34jl4kNq-4" value="用户" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+        <mxCell id="QazVs1psLP-u34jl4kNq-4" value="收藏" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="600" y="270" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="QazVs1psLP-u34jl4kNq-5" value="公告" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="440" y="190" width="80" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
