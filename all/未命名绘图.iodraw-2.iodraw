@@ -23,7 +23,7 @@
           <mxGeometry x="480" y="360" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="QazVs1psLP-u34jl4kNq-7" value="留言" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="180" y="360" width="80" height="40" as="geometry" />
+          <mxGeometry x="180" y="340" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="QazVs1psLP-u34jl4kNq-15" value="信息介绍" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="30" y="248" width="80" height="40" as="geometry" />
@@ -59,18 +59,6 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="190" y="300" as="sourcePoint" />
             <mxPoint x="240" y="250" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="QazVs1psLP-u34jl4kNq-31" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="QazVs1psLP-u34jl4kNq-21">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="310" y="250" as="sourcePoint" />
-            <mxPoint x="360" y="200" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="QazVs1psLP-u34jl4kNq-32" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="QazVs1psLP-u34jl4kNq-7" target="QazVs1psLP-u34jl4kNq-21">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="270" y="360" as="sourcePoint" />
-            <mxPoint x="320" y="310" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="QazVs1psLP-u34jl4kNq-34" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="QazVs1psLP-u34jl4kNq-20">
@@ -112,7 +100,7 @@
             <mxPoint x="60" y="290" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="QazVs1psLP-u34jl4kNq-44" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="QazVs1psLP-u34jl4kNq-44" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="QazVs1psLP-u34jl4kNq-7">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="130" y="360" as="sourcePoint" />
             <mxPoint x="160" y="360" as="targetPoint" />
