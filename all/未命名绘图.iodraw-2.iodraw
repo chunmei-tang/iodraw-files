@@ -25,6 +25,12 @@
         <mxCell id="QazVs1psLP-u34jl4kNq-7" value="留言" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="170" y="480" width="80" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="QazVs1psLP-u34jl4kNq-15" value="信息介绍" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="400" y="490" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="QazVs1psLP-u34jl4kNq-16" value="留言" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="560" y="450" width="80" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
