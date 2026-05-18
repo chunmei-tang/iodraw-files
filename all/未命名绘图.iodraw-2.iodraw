@@ -23,7 +23,7 @@
           <mxGeometry x="480" y="360" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="QazVs1psLP-u34jl4kNq-7" value="留言" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="230" y="350" width="80" height="40" as="geometry" />
+          <mxGeometry x="160" y="360" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="QazVs1psLP-u34jl4kNq-15" value="信息介绍" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="50" y="230" width="80" height="40" as="geometry" />
@@ -44,7 +44,7 @@
           <mxGeometry x="414" y="190" width="60" height="60" as="geometry" />
         </mxCell>
         <mxCell id="QazVs1psLP-u34jl4kNq-23" value="发布" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="360" y="240" width="60" height="60" as="geometry" />
+          <mxGeometry x="350" y="250" width="60" height="60" as="geometry" />
         </mxCell>
         <mxCell id="QazVs1psLP-u34jl4kNq-24" value="发布" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="600" y="40" width="60" height="60" as="geometry" />
@@ -94,7 +94,7 @@
             <mxPoint x="305" y="190" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="QazVs1psLP-u34jl4kNq-47" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="QazVs1psLP-u34jl4kNq-47" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="QazVs1psLP-u34jl4kNq-7">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="304.5" y="350" as="sourcePoint" />
             <mxPoint x="304.5" y="310" as="targetPoint" />
