@@ -26,7 +26,7 @@
           <mxGeometry x="260" y="360" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="QazVs1psLP-u34jl4kNq-15" value="信息介绍" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="50" y="240" width="80" height="40" as="geometry" />
+          <mxGeometry x="50" y="230" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="QazVs1psLP-u34jl4kNq-16" value="资源信息" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="650" y="240" width="80" height="40" as="geometry" />
@@ -85,7 +85,7 @@
         <mxCell id="QazVs1psLP-u34jl4kNq-38" value="N" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="115" y="148" width="30" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="QazVs1psLP-u34jl4kNq-40" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="QazVs1psLP-u34jl4kNq-15" target="QazVs1psLP-u34jl4kNq-19">
+        <mxCell id="QazVs1psLP-u34jl4kNq-40" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.25;exitDx=0;exitDy=0;" edge="1" parent="1" source="QazVs1psLP-u34jl4kNq-15" target="QazVs1psLP-u34jl4kNq-19">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="120" y="270" as="sourcePoint" />
             <mxPoint x="170" y="230" as="targetPoint" />
