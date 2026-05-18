@@ -29,7 +29,7 @@
           <mxGeometry x="400" y="490" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="QazVs1psLP-u34jl4kNq-16" value="资源信息" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="590" y="420" width="80" height="40" as="geometry" />
+          <mxGeometry x="510" y="240" width="80" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
