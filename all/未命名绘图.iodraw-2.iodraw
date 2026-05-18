@@ -23,7 +23,7 @@
           <mxGeometry x="450" y="320" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="QazVs1psLP-u34jl4kNq-7" value="留言" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="200" y="320" width="80" height="40" as="geometry" />
+          <mxGeometry x="220" y="360" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="QazVs1psLP-u34jl4kNq-15" value="信息介绍" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="50" y="240" width="80" height="40" as="geometry" />
@@ -64,8 +64,8 @@
         <mxCell id="QazVs1psLP-u34jl4kNq-27" value="1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="270" y="160" width="30" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="QazVs1psLP-u34jl4kNq-28" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="115" y="218" width="50" height="30" as="geometry" />
+        <mxCell id="QazVs1psLP-u34jl4kNq-28" value="N" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="125" y="218" width="30" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
