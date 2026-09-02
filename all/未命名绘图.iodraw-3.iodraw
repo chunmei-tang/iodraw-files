@@ -25,6 +25,12 @@
         <mxCell id="VuhcFRG8XXRvMiDQNHlx-12" value="状态机判定" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="190" y="-300" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="VuhcFRG8XXRvMiDQNHlx-13" value="画像生成" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="354" y="-300" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="VuhcFRG8XXRvMiDQNHlx-14" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="510" y="-300" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
