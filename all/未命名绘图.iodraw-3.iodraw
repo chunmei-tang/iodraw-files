@@ -14,7 +14,7 @@
           <mxGeometry x="180" y="-620" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="VuhcFRG8XXRvMiDQNHlx-9" value="生成考点体系" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="354" y="-620" width="120" height="60" as="geometry" />
+          <mxGeometry x="340" y="-620" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="VuhcFRG8XXRvMiDQNHlx-10" value="智能出题" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="190" y="-525" width="120" height="70" as="geometry" />
@@ -30,6 +30,9 @@
         </mxCell>
         <mxCell id="VuhcFRG8XXRvMiDQNHlx-14" value="能力报告" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="510" y="-300" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="VuhcFRG8XXRvMiDQNHlx-15" value="限定考点内容：&lt;div&gt;《Python在法律中的应用》&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="445" y="-617" width="170" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
