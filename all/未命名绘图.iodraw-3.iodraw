@@ -8,16 +8,16 @@
           <mxGeometry x="20" y="-620" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="VuhcFRG8XXRvMiDQNHlx-2" value="学习者身份进入" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="40" y="-250" width="120" height="60" as="geometry" />
+          <mxGeometry x="20" y="-520" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="VuhcFRG8XXRvMiDQNHlx-8" value="知识图谱" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="210" y="-370" width="120" height="60" as="geometry" />
+          <mxGeometry x="180" y="-620" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="VuhcFRG8XXRvMiDQNHlx-9" value="生成考点体系" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="390" y="-370" width="120" height="60" as="geometry" />
+          <mxGeometry x="354" y="-620" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="VuhcFRG8XXRvMiDQNHlx-10" value="智能出题" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="210" y="-250" width="120" height="60" as="geometry" />
+          <mxGeometry x="190" y="-525" width="120" height="70" as="geometry" />
         </mxCell>
         <mxCell id="VuhcFRG8XXRvMiDQNHlx-11" value="证据提取" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="210" y="-140" width="120" height="60" as="geometry" />
