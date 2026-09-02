@@ -10,8 +10,11 @@
         <mxCell id="VuhcFRG8XXRvMiDQNHlx-2" value="学习者身份进入" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="40" y="-250" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="VuhcFRG8XXRvMiDQNHlx-8" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="VuhcFRG8XXRvMiDQNHlx-8" value="知识图谱" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="210" y="-370" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="VuhcFRG8XXRvMiDQNHlx-9" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="-360" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
