@@ -37,6 +37,9 @@
         <mxCell id="VuhcFRG8XXRvMiDQNHlx-16" value="推送单元层级题" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="305" y="-502" width="110" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="VuhcFRG8XXRvMiDQNHlx-17" value="通过单元数/重试/终止" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="334" y="-385" width="140" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
