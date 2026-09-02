@@ -7,7 +7,7 @@
         <mxCell id="VuhcFRG8XXRvMiDQNHlx-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="VuhcFRG8XXRvMiDQNHlx-2" target="VuhcFRG8XXRvMiDQNHlx-10">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="VuhcFRG8XXRvMiDQNHlx-2" value="学习者身份进入" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="VuhcFRG8XXRvMiDQNHlx-2" value="教师身份进入" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="20" y="-520" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="VuhcFRG8XXRvMiDQNHlx-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="VuhcFRG8XXRvMiDQNHlx-10" target="VuhcFRG8XXRvMiDQNHlx-11">
@@ -38,9 +38,6 @@
         </mxCell>
         <mxCell id="VuhcFRG8XXRvMiDQNHlx-14" value="能力报告" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="510" y="-300" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="VuhcFRG8XXRvMiDQNHlx-15" value="限定考点内容：&lt;div&gt;《Python在法律中的应用》&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="485" y="-610" width="170" height="40" as="geometry" />
         </mxCell>
         <mxCell id="VuhcFRG8XXRvMiDQNHlx-16" value="推送单元层级题" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="305" y="-502" width="110" height="30" as="geometry" />
