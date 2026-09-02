@@ -22,7 +22,7 @@
         <mxCell id="VuhcFRG8XXRvMiDQNHlx-11" value="证据提取" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="190" y="-400" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="VuhcFRG8XXRvMiDQNHlx-12" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="VuhcFRG8XXRvMiDQNHlx-12" value="状态机判定" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="190" y="-300" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
