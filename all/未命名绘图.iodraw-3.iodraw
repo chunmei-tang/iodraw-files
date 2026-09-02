@@ -7,13 +7,11 @@
         <mxCell id="VuhcFRG8XXRvMiDQNHlx-1" value="课程大纲" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="40" y="-370" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="VuhcFRG8XXRvMiDQNHlx-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="VuhcFRG8XXRvMiDQNHlx-2">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="100" y="-130" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="VuhcFRG8XXRvMiDQNHlx-2" value="学习者身份进入" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="40" y="-250" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="VuhcFRG8XXRvMiDQNHlx-8" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="210" y="-370" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
