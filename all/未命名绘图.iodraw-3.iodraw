@@ -32,7 +32,10 @@
           <mxGeometry x="510" y="-300" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="VuhcFRG8XXRvMiDQNHlx-15" value="限定考点内容：&lt;div&gt;《Python在法律中的应用》&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="445" y="-617" width="170" height="40" as="geometry" />
+          <mxGeometry x="485" y="-610" width="170" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="VuhcFRG8XXRvMiDQNHlx-16" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="335" y="-502" width="50" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
