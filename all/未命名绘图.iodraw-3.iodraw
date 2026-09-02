@@ -7,6 +7,9 @@
         <mxCell id="VuhcFRG8XXRvMiDQNHlx-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="VuhcFRG8XXRvMiDQNHlx-2" target="VuhcFRG8XXRvMiDQNHlx-10">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="VuhcFRG8XXRvMiDQNHlx-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="VuhcFRG8XXRvMiDQNHlx-2" target="VuhcFRG8XXRvMiDQNHlx-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="VuhcFRG8XXRvMiDQNHlx-2" value="教师身份进入" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="20" y="-520" width="120" height="60" as="geometry" />
         </mxCell>
@@ -15,23 +18,6 @@
         </mxCell>
         <mxCell id="VuhcFRG8XXRvMiDQNHlx-11" value="班级学生测试情况" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="20" y="-400" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="VuhcFRG8XXRvMiDQNHlx-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="VuhcFRG8XXRvMiDQNHlx-12" target="VuhcFRG8XXRvMiDQNHlx-13">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="350" y="-270" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="VuhcFRG8XXRvMiDQNHlx-12" value="状态机判定" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="190" y="-300" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="VuhcFRG8XXRvMiDQNHlx-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="VuhcFRG8XXRvMiDQNHlx-13" target="VuhcFRG8XXRvMiDQNHlx-14">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="VuhcFRG8XXRvMiDQNHlx-13" value="画像生成" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="354" y="-300" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="VuhcFRG8XXRvMiDQNHlx-14" value="能力报告" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="510" y="-300" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
