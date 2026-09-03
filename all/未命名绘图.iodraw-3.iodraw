@@ -28,6 +28,9 @@
         <mxCell id="Nqz93AZ5DkJVdd5TDEpR-6" value="拖拽上传&lt;div&gt;原始试卷文档&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="150" y="-130" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="Nqz93AZ5DkJVdd5TDEpR-7" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="-130" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
