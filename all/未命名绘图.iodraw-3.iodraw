@@ -10,7 +10,7 @@
         <mxCell id="VuhcFRG8XXRvMiDQNHlx-11" value="配置API与计费阙值" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="45" y="-450" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="VuhcFRG8XXRvMiDQNHlx-26" value="学生列表" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="VuhcFRG8XXRvMiDQNHlx-26" value="创教师端账号并分配课程权限" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="45" y="-340" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="VuhcFRG8XXRvMiDQNHlx-27" value="班级报告" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
