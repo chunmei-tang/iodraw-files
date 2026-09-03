@@ -67,6 +67,9 @@
         <mxCell id="kKFtbFnup5F-UkyOO5J5-11" value="统计通过率" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="550" y="-700" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="kKFtbFnup5F-UkyOO5J5-12" value="单元通过&lt;div&gt;二分区间上移&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="500" y="-580" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
