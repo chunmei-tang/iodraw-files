@@ -10,11 +10,8 @@
         <mxCell id="VuhcFRG8XXRvMiDQNHlx-11" value="配置API与计费阙值" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="45" y="-450" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="VuhcFRG8XXRvMiDQNHlx-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="VuhcFRG8XXRvMiDQNHlx-26" target="VuhcFRG8XXRvMiDQNHlx-27" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="VuhcFRG8XXRvMiDQNHlx-26" value="学生列表" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="20" y="-290" width="120" height="60" as="geometry" />
+          <mxGeometry x="45" y="-340" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="VuhcFRG8XXRvMiDQNHlx-27" value="班级报告" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="20" y="-180" width="120" height="60" as="geometry" />
