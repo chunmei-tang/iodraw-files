@@ -97,6 +97,9 @@
         <mxCell id="kKFtbFnup5F-UkyOO5J5-12" value="单元通过&lt;div&gt;二分区间上移&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="414" y="-590" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="kKFtbFnup5F-UkyOO5J5-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="kKFtbFnup5F-UkyOO5J5-13" target="kKFtbFnup5F-UkyOO5J5-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="kKFtbFnup5F-UkyOO5J5-13" value="单元未通过&lt;div&gt;二分区间下移&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="610" y="-590" width="120" height="60" as="geometry" />
         </mxCell>
@@ -112,7 +115,7 @@
           <mxGeometry x="520" y="-490" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="kKFtbFnup5F-UkyOO5J5-15" value="定位上限" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="530" y="-410" width="120" height="60" as="geometry" />
+          <mxGeometry x="520" y="-390" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
