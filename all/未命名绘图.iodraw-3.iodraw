@@ -85,7 +85,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Nqz93AZ5DkJVdd5TDEpR-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="Nqz93AZ5DkJVdd5TDEpR-15" target="Nqz93AZ5DkJVdd5TDEpR-17">
+        <mxCell id="Nqz93AZ5DkJVdd5TDEpR-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Nqz93AZ5DkJVdd5TDEpR-15" target="Nqz93AZ5DkJVdd5TDEpR-17">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Nqz93AZ5DkJVdd5TDEpR-23" value="补考" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Nqz93AZ5DkJVdd5TDEpR-22">
@@ -104,11 +104,11 @@
         </mxCell>
         <mxCell id="Nqz93AZ5DkJVdd5TDEpR-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="Nqz93AZ5DkJVdd5TDEpR-17">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="620" y="-230" as="targetPoint" />
+            <mxPoint x="620" y="-210" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Nqz93AZ5DkJVdd5TDEpR-17" value="固定单元重测模式" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="700" y="-330" width="120" height="60" as="geometry" />
+          <mxGeometry x="700" y="-360" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Nqz93AZ5DkJVdd5TDEpR-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Nqz93AZ5DkJVdd5TDEpR-18" target="Nqz93AZ5DkJVdd5TDEpR-19">
           <mxGeometry relative="1" as="geometry" />
