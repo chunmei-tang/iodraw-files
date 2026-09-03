@@ -63,7 +63,7 @@
           <mxGeometry x="230" y="-450" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Nqz93AZ5DkJVdd5TDEpR-11" value="AI生成教学洞察建议" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="170" y="-130" width="120" height="60" as="geometry" />
+          <mxGeometry x="230" y="-250" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Nqz93AZ5DkJVdd5TDEpR-12" value="&lt;b&gt;学生端&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="630" y="-690" width="60" height="30" as="geometry" />
@@ -126,7 +126,12 @@
           <mxGeometry x="560" y="-210" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Nqz93AZ5DkJVdd5TDEpR-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Nqz93AZ5DkJVdd5TDEpR-19" target="Nqz93AZ5DkJVdd5TDEpR-10">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="400" y="-80" />
+              <mxPoint x="400" y="-420" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="Nqz93AZ5DkJVdd5TDEpR-19" value="生成个人上限报告并提交" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="560" y="-110" width="120" height="60" as="geometry" />
