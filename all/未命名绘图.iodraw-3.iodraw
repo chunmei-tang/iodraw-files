@@ -78,10 +78,10 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Nqz93AZ5DkJVdd5TDEpR-10" value="打开班级热力图" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="170" y="-550" width="120" height="60" as="geometry" />
+          <mxGeometry x="170" y="-260" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Nqz93AZ5DkJVdd5TDEpR-11" value="AI生成教学洞察建议" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="170" y="-170" width="120" height="60" as="geometry" />
+          <mxGeometry x="170" y="-130" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Nqz93AZ5DkJVdd5TDEpR-12" value="学生端" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="430" y="-680" width="60" height="30" as="geometry" />
@@ -136,6 +136,9 @@
         </mxCell>
         <mxCell id="Nqz93AZ5DkJVdd5TDEpR-18" value="实时更新迷雾地图" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="420" y="-280" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Nqz93AZ5DkJVdd5TDEpR-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Nqz93AZ5DkJVdd5TDEpR-19" target="Nqz93AZ5DkJVdd5TDEpR-10">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Nqz93AZ5DkJVdd5TDEpR-19" value="生成个人上限报告并提交" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="420" y="-190" width="120" height="60" as="geometry" />
