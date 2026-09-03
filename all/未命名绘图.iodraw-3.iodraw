@@ -16,8 +16,14 @@
         <mxCell id="VuhcFRG8XXRvMiDQNHlx-11" value="配置API与计费阙值" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="30" y="-1000" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="Nqz93AZ5DkJVdd5TDEpR-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="VuhcFRG8XXRvMiDQNHlx-26" target="VuhcFRG8XXRvMiDQNHlx-27">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="VuhcFRG8XXRvMiDQNHlx-26" value="创教师端账号并分配课程权限" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="30" y="-920" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Nqz93AZ5DkJVdd5TDEpR-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="VuhcFRG8XXRvMiDQNHlx-27" target="Nqz93AZ5DkJVdd5TDEpR-5">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="VuhcFRG8XXRvMiDQNHlx-27" value="登录教师端" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="170" y="-920" width="120" height="60" as="geometry" />
