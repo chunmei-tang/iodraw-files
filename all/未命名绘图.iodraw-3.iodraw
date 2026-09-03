@@ -4,33 +4,28 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="Nqz93AZ5DkJVdd5TDEpR-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="VuhcFRG8XXRvMiDQNHlx-27" target="Nqz93AZ5DkJVdd5TDEpR-5">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="Nqz93AZ5DkJVdd5TDEpR-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="VuhcFRG8XXRvMiDQNHlx-27">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="300" y="-820" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="VuhcFRG8XXRvMiDQNHlx-27" value="开始测试某单元" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="240" y="-910" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Nqz93AZ5DkJVdd5TDEpR-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Nqz93AZ5DkJVdd5TDEpR-5" target="Nqz93AZ5DkJVdd5TDEpR-6">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="Nqz93AZ5DkJVdd5TDEpR-26" value="上传试卷" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Nqz93AZ5DkJVdd5TDEpR-24">
-          <mxGeometry x="-0.0667" y="-1" relative="1" as="geometry">
-            <mxPoint as="offset" />
+        <mxCell id="Nqz93AZ5DkJVdd5TDEpR-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="Nqz93AZ5DkJVdd5TDEpR-7">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="340" y="-780" as="sourcePoint" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="Nqz93AZ5DkJVdd5TDEpR-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Nqz93AZ5DkJVdd5TDEpR-5" target="Nqz93AZ5DkJVdd5TDEpR-7">
-          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Nqz93AZ5DkJVdd5TDEpR-27" value="发布任务" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Nqz93AZ5DkJVdd5TDEpR-25">
           <mxGeometry x="-0.3067" y="-3" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Nqz93AZ5DkJVdd5TDEpR-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Nqz93AZ5DkJVdd5TDEpR-5" target="Nqz93AZ5DkJVdd5TDEpR-10">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="Nqz93AZ5DkJVdd5TDEpR-5" value="选择操作" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="260" y="-820" width="80" height="80" as="geometry" />
+        <mxCell id="Nqz93AZ5DkJVdd5TDEpR-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="Nqz93AZ5DkJVdd5TDEpR-10">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="300" y="-740" as="sourcePoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="Nqz93AZ5DkJVdd5TDEpR-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Nqz93AZ5DkJVdd5TDEpR-6" target="Nqz93AZ5DkJVdd5TDEpR-8">
           <mxGeometry relative="1" as="geometry" />
