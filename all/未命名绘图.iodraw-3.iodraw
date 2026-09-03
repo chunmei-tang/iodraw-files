@@ -40,6 +40,14 @@
         <mxCell id="Nqz93AZ5DkJVdd5TDEpR-11" value="标记薄弱" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="20" y="-520" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="kKFtbFnup5F-UkyOO5J5-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Nqz93AZ5DkJVdd5TDEpR-16" target="kKFtbFnup5F-UkyOO5J5-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kKFtbFnup5F-UkyOO5J5-19" value="5题结束" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="kKFtbFnup5F-UkyOO5J5-18">
+          <mxGeometry x="0.0083" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="Nqz93AZ5DkJVdd5TDEpR-16" value="下一题" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="310" y="-690" width="120" height="60" as="geometry" />
         </mxCell>
