@@ -40,25 +40,11 @@
         <mxCell id="Nqz93AZ5DkJVdd5TDEpR-11" value="标记薄弱" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="20" y="-520" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Nqz93AZ5DkJVdd5TDEpR-13" value="AI生成变式题" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="570" y="-630" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="Nqz93AZ5DkJVdd5TDEpR-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="Nqz93AZ5DkJVdd5TDEpR-14" target="Nqz93AZ5DkJVdd5TDEpR-15" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="Nqz93AZ5DkJVdd5TDEpR-14" value="二次作答" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="570" y="-550" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="Nqz93AZ5DkJVdd5TDEpR-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="Nqz93AZ5DkJVdd5TDEpR-15" target="Nqz93AZ5DkJVdd5TDEpR-17" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="Nqz93AZ5DkJVdd5TDEpR-23" value="是" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="Nqz93AZ5DkJVdd5TDEpR-22" vertex="1" connectable="0">
-          <mxGeometry x="-0.0303" y="-2" relative="1" as="geometry">
-            <mxPoint as="offset" />
+        <mxCell id="Nqz93AZ5DkJVdd5TDEpR-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="670" y="-410" as="sourcePoint" />
+            <mxPoint x="760" y="-370" as="targetPoint" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="Nqz93AZ5DkJVdd5TDEpR-15" value="正确？" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="590" y="-450" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="Nqz93AZ5DkJVdd5TDEpR-16" value="下一题" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="380" y="-700" width="120" height="60" as="geometry" />
@@ -72,9 +58,6 @@
               <mxPoint x="621" y="-240" />
             </Array>
           </mxGeometry>
-        </mxCell>
-        <mxCell id="Nqz93AZ5DkJVdd5TDEpR-17" value="记录通过" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="700" y="-370" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Nqz93AZ5DkJVdd5TDEpR-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" target="Nqz93AZ5DkJVdd5TDEpR-19" edge="1">
           <mxGeometry relative="1" as="geometry">
