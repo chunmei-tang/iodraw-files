@@ -13,14 +13,14 @@
         <mxCell id="VuhcFRG8XXRvMiDQNHlx-26" value="创教师端账号并分配课程权限" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="45" y="-340" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="VuhcFRG8XXRvMiDQNHlx-27" value="班级报告" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="VuhcFRG8XXRvMiDQNHlx-27" value="登录教师端" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="240" y="-340" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Nqz93AZ5DkJVdd5TDEpR-1" value="管理员端" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="65" y="-599" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Nqz93AZ5DkJVdd5TDEpR-4" value="教师端" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="255" y="-382" width="60" height="30" as="geometry" />
+          <mxGeometry x="270" y="-382" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
