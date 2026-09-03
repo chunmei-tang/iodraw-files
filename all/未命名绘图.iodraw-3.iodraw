@@ -22,6 +22,9 @@
         <mxCell id="Nqz93AZ5DkJVdd5TDEpR-4" value="教师端" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="190" y="-950" width="60" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="Nqz93AZ5DkJVdd5TDEpR-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="Nqz93AZ5DkJVdd5TDEpR-5" target="Nqz93AZ5DkJVdd5TDEpR-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="Nqz93AZ5DkJVdd5TDEpR-5" value="选择操作" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="180" y="-840" width="80" height="80" as="geometry" />
         </mxCell>
