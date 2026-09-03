@@ -73,7 +73,7 @@
         <mxCell id="kKFtbFnup5F-UkyOO5J5-13" value="单元未通过&lt;div&gt;二分区间下移&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="610" y="-600" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="kKFtbFnup5F-UkyOO5J5-14" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="kKFtbFnup5F-UkyOO5J5-14" value="继续测中间单元" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="530" y="-520" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
