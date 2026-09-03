@@ -57,7 +57,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Nqz93AZ5DkJVdd5TDEpR-10" value="打开班级热力图" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="170" y="-260" width="120" height="60" as="geometry" />
+          <mxGeometry x="230" y="-450" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Nqz93AZ5DkJVdd5TDEpR-11" value="AI生成教学洞察建议" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="170" y="-130" width="120" height="60" as="geometry" />
@@ -104,7 +104,8 @@
         </mxCell>
         <mxCell id="Nqz93AZ5DkJVdd5TDEpR-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="Nqz93AZ5DkJVdd5TDEpR-17">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="620" y="-210" as="targetPoint" />
+            <mxPoint x="620" y="-200" as="targetPoint" />
+            <mxPoint x="760" y="-290" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Nqz93AZ5DkJVdd5TDEpR-17" value="固定单元重测模式" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
