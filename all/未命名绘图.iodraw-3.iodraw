@@ -12,11 +12,17 @@
         <mxCell id="VuhcFRG8XXRvMiDQNHlx-27" value="学生答题" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="240" y="-910" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="kKFtbFnup5F-UkyOO5J5-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="Nqz93AZ5DkJVdd5TDEpR-8" target="Nqz93AZ5DkJVdd5TDEpR-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="Nqz93AZ5DkJVdd5TDEpR-8" value="AI生成变式题" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="80" y="-720" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Nqz93AZ5DkJVdd5TDEpR-9" value="学生作答" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="390" y="-720" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kKFtbFnup5F-UkyOO5J5-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Nqz93AZ5DkJVdd5TDEpR-10" target="Nqz93AZ5DkJVdd5TDEpR-11">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Nqz93AZ5DkJVdd5TDEpR-10" value="二次作答" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="80" y="-620" width="120" height="60" as="geometry" />
@@ -74,7 +80,7 @@
         <mxCell id="kKFtbFnup5F-UkyOO5J5-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="kKFtbFnup5F-UkyOO5J5-1" target="Nqz93AZ5DkJVdd5TDEpR-9">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="kKFtbFnup5F-UkyOO5J5-5" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="kKFtbFnup5F-UkyOO5J5-3">
+        <mxCell id="kKFtbFnup5F-UkyOO5J5-5" value="正确" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="kKFtbFnup5F-UkyOO5J5-3">
           <mxGeometry x="-0.0471" y="-4" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
