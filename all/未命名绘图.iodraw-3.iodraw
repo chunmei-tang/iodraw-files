@@ -37,7 +37,7 @@
         <mxCell id="Nqz93AZ5DkJVdd5TDEpR-9" value="推送测试任务至学生端" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="300" y="-250" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Nqz93AZ5DkJVdd5TDEpR-10" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Nqz93AZ5DkJVdd5TDEpR-10" value="打开班级热力图" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="230" y="-160" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
