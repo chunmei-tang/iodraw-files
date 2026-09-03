@@ -40,32 +40,8 @@
         <mxCell id="Nqz93AZ5DkJVdd5TDEpR-11" value="标记薄弱" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="20" y="-520" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Nqz93AZ5DkJVdd5TDEpR-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="670" y="-410" as="sourcePoint" />
-            <mxPoint x="760" y="-370" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="Nqz93AZ5DkJVdd5TDEpR-16" value="下一题" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="380" y="-700" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="Nqz93AZ5DkJVdd5TDEpR-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="620" y="-210" as="targetPoint" />
-            <mxPoint x="760" y="-320" as="sourcePoint" />
-            <Array as="points">
-              <mxPoint x="760" y="-240" />
-              <mxPoint x="621" y="-240" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="Nqz93AZ5DkJVdd5TDEpR-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" target="Nqz93AZ5DkJVdd5TDEpR-19" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="620" y="-150" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="Nqz93AZ5DkJVdd5TDEpR-19" value="生成个人上限报告并提交" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="560" y="-110" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="kKFtbFnup5F-UkyOO5J5-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="kKFtbFnup5F-UkyOO5J5-1" target="Nqz93AZ5DkJVdd5TDEpR-16">
           <mxGeometry relative="1" as="geometry">
@@ -87,6 +63,9 @@
           <mxGeometry x="-0.1889" y="-1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="kKFtbFnup5F-UkyOO5J5-11" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="550" y="-700" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
