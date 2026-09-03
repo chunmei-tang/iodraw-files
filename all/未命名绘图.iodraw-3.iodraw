@@ -123,13 +123,9 @@
         <mxCell id="Nqz93AZ5DkJVdd5TDEpR-16" value="自动二分探测&lt;div&gt;核心算法&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="320" y="-380" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Nqz93AZ5DkJVdd5TDEpR-41" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="Nqz93AZ5DkJVdd5TDEpR-17">
+        <mxCell id="Nqz93AZ5DkJVdd5TDEpR-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="Nqz93AZ5DkJVdd5TDEpR-17">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="480" y="-290" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="560" y="-300" />
-              <mxPoint x="481" y="-300" />
-            </Array>
+            <mxPoint x="480" y="-280" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Nqz93AZ5DkJVdd5TDEpR-17" value="固定单元重测模式" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
