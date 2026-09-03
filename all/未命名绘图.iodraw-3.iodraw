@@ -76,7 +76,7 @@
         <mxCell id="kKFtbFnup5F-UkyOO5J5-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="kKFtbFnup5F-UkyOO5J5-14" target="kKFtbFnup5F-UkyOO5J5-15">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="kKFtbFnup5F-UkyOO5J5-17" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="kKFtbFnup5F-UkyOO5J5-16">
+        <mxCell id="kKFtbFnup5F-UkyOO5J5-17" value="区间收敛" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="kKFtbFnup5F-UkyOO5J5-16">
           <mxGeometry x="0.04" y="-1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
