@@ -136,7 +136,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Nqz93AZ5DkJVdd5TDEpR-19" value="生成个人上限报告并提交" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="420" y="-190" width="120" height="60" as="geometry" />
+          <mxGeometry x="560" y="-110" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
