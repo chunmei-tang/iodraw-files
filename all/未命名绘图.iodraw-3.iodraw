@@ -86,8 +86,14 @@
         <mxCell id="Nqz93AZ5DkJVdd5TDEpR-12" value="学生端" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="430" y="-680" width="60" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="Nqz93AZ5DkJVdd5TDEpR-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Nqz93AZ5DkJVdd5TDEpR-13" target="Nqz93AZ5DkJVdd5TDEpR-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="Nqz93AZ5DkJVdd5TDEpR-13" value="登录学生端" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="414" y="-644" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Nqz93AZ5DkJVdd5TDEpR-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Nqz93AZ5DkJVdd5TDEpR-14" target="Nqz93AZ5DkJVdd5TDEpR-15">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Nqz93AZ5DkJVdd5TDEpR-14" value="接受教师推送的任务" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="414" y="-560" width="120" height="60" as="geometry" />
