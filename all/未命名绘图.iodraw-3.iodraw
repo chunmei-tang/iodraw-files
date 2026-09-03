@@ -114,6 +114,10 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="620" y="-210" as="targetPoint" />
             <mxPoint x="760" y="-320" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="760" y="-300" />
+              <mxPoint x="621" y="-300" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="Nqz93AZ5DkJVdd5TDEpR-17" value="固定单元重测模式" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
