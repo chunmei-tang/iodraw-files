@@ -74,6 +74,9 @@
         <mxCell id="kKFtbFnup5F-UkyOO5J5-1" value="AI判断对错" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="260" y="-820" width="80" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="kKFtbFnup5F-UkyOO5J5-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="kKFtbFnup5F-UkyOO5J5-1" target="Nqz93AZ5DkJVdd5TDEpR-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
